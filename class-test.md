@@ -5,16 +5,77 @@ title: Sunday 10 AM — Test
 
 # Sunday 10 AM
 
-## गीतायाः भाषा — भागः १
+<details>
+<summary><strong>Book One — Completed</strong></summary>
 
-### कक्षा २२ — १६-०८-२०२६
+### कक्षा १
 
-**पुटानि:** ८५–९१
-
-**पाठितविषयाः**
+**पुटानि:** १–५
 
 - विषयः १
 - विषयः २
+
+[▶ Class Recording](https://example.com)
+
+---
+
+### कक्षा २
+
+**पुटानि:** ६–१०
+
+- विषयः ३
+- विषयः ४
+
+[▶ Class Recording](https://example.com)
+
+---
+
+### कक्षा ३
+
+**पुटानि:** ११–१५
+
+- विषयः ५
+
+[▶ Class Recording](https://example.com)
+
+</details>
+
+
+<details open>
+<summary><strong>Book Two — Current</strong></summary>
+
+<p><a href="#class-6">▶ नवीनतमा कक्षा — कक्षा ६</a></p>
+
+### कक्षा ४
+
+**पुटानि:** १–४
+
+- विषयः १
+- विषयः २
+
+[▶ Class Recording](https://example.com)
+
+---
+
+### कक्षा ५
+
+**पुटानि:** ५–९
+
 - विषयः ३
 
-[▶ Class Recording](https://drive.google.com/file/d/1oE95Q77Zw9v918VGI6sNkl-u69DfzuNx/view?usp=drive_link)
+[▶ Class Recording](https://example.com)
+
+---
+
+<a id="class-6"></a>
+
+### कक्षा ६
+
+**पुटानि:** १०–१४
+
+- विषयः ४
+- विषयः ५
+
+[▶ Class Recording](https://example.com)
+
+</details>
