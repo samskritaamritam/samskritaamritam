@@ -1,9 +1,2 @@
 title: संस्कृतामृतम्
-description: संस्कृत-अध्ययनम्
-baseurl: "/samskritaamritam"
-url: "https://samskritaamritam.github.io"
-
-theme: minima
-
-plugins:
-  - jekyll-feed
+markdown: kramdown
