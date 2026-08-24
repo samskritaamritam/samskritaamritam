@@ -1,57 +1,48 @@
 body {
     margin: 0;
     font-family: "Tiro Devanagari Sanskrit", "Noto Serif Devanagari", serif;
-    line-height: 1.8;
-    font-size: 20px;
+    font-size: 18px;
+    line-height: 1.55;
 }
 
 .page {
     max-width: 850px;
     margin: 0 auto;
-    padding: 2rem 1.25rem;
-}
-
-h1, h2, h3 {
-    line-height: 1.4;
-}
-
-a {
-    font-weight: 600;
-    text-decoration: none;
+    padding: 1.5rem 1.25rem;
 }
 
 details {
-    margin: 1.5rem 0;
+    margin: 1rem 0;
 }
 
 summary {
     cursor: pointer;
     font-weight: 700;
-    font-size: 1.2rem;
-    padding: 0.8rem 1rem;
+    font-size: 1.1rem;
+    padding: 0.6rem 0.8rem;
     border: 1px solid #ccc;
     border-radius: 6px;
     background: #f7f7f7;
 }
 
 details[open] summary {
-    margin-bottom: 1rem;
+    margin-bottom: 0.6rem;
 }
 
 details h2 {
-    margin-top: 1.8rem;
-    margin-bottom: 0.4rem;
-    font-size: 30px;
+    margin-top: 1.2rem;
+    margin-bottom: 0.25rem;
+    font-size: 23px;
     font-weight: 700;
-    line-height: 1.4;
+    line-height: 1.35;
 }
 
 details h2 + p {
-    margin-top: 0.2rem;
+    margin-top: 0.15rem;
 }
 
 details hr {
     border: 0;
     border-top: 1px solid #ddd;
-    margin: 1.5rem 0;
+    margin: 1rem 0;
 }
