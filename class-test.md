@@ -1,4 +1,4 @@
----
+    ---
 layout: default
 title: Sunday 10 AM — Test
 ---
@@ -8,7 +8,7 @@ title: Sunday 10 AM — Test
 <details>
 <summary><strong>Book One — Completed</strong></summary>
 
-### कक्षा १
+## कक्षा १
 
 **पुटानि:** १–५
 
@@ -19,7 +19,7 @@ title: Sunday 10 AM — Test
 
 ---
 
-### कक्षा २
+## कक्षा २
 
 **पुटानि:** ६–१०
 
@@ -30,7 +30,7 @@ title: Sunday 10 AM — Test
 
 ---
 
-### कक्षा ३
+## कक्षा ३
 
 **पुटानि:** ११–१५
 
@@ -46,7 +46,7 @@ title: Sunday 10 AM — Test
 
 <p><a href="#class-6">▶ नवीनतमा कक्षा — कक्षा ६</a></p>
 
-### कक्षा ४
+## कक्षा ४
 
 **पुटानि:** १–४
 
@@ -57,7 +57,7 @@ title: Sunday 10 AM — Test
 
 ---
 
-### कक्षा ५
+## कक्षा ५
 
 **पुटानि:** ५–९
 
@@ -69,7 +69,7 @@ title: Sunday 10 AM — Test
 
 <a id="class-6"></a>
 
-### कक्षा ६
+## कक्षा ६
 
 **पुटानि:** १०–१४
 
