@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    font-family: "Noto Serif Devanagari", "Noto Serif", serif;
+    font-family: "Tiro Devanagari Sanskrit", "Noto Serif Devanagari", serif;
     line-height: 1.8;
     font-size: 20px;
 }
@@ -16,5 +16,40 @@ h1, h2, h3 {
 }
 
 a {
+    font-weight: 600;
     text-decoration: none;
+}
+
+details {
+    margin: 1.5rem 0;
+}
+
+summary {
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 1.2rem;
+    padding: 0.8rem 1rem;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    background: #f7f7f7;
+}
+
+details[open] summary {
+    margin-bottom: 1rem;
+}
+
+details h2 {
+    margin-top: 1.8rem;
+    margin-bottom: 0.4rem;
+    font-size: 1.15rem;
+}
+
+details h2 + p {
+    margin-top: 0.2rem;
+}
+
+details hr {
+    border: 0;
+    border-top: 1px solid #ddd;
+    margin: 1.5rem 0;
 }

@@ -6,7 +6,7 @@ title: Sunday 10 AM — Test
 # Sunday 10 AM
 
 <details markdown="1">
-<summary><strong>Book One — Completed</strong></summary>
+<summary>Book One — Completed</summary>
 
 ## कक्षा १
 
@@ -42,7 +42,7 @@ title: Sunday 10 AM — Test
 
 
 <details markdown="1" open>
-<summary><strong>Book Two — Current</strong></summary>
+<summary>Book Two — Current</summary>
 
 <p><a href="#class-6">▶ नवीनतमा कक्षा — कक्षा ६</a></p>
 
