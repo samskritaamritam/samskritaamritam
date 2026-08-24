@@ -46,7 +46,7 @@ title: Sunday 10 AM — Test
 
 <p><a href="#class-6">▶ नवीनतमा कक्षा — कक्षा ६</a></p>
 
-## कक्षा ४
+<h2 class="class-heading">कक्षा ४</h2>
 
 **पुटानि:** १–४
 
