@@ -20,7 +20,9 @@ title: भगवद्गीता प्रथमोऽध्यायः
 पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् ।  
 व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ॥ ३ ॥
 
-<audio controls>
-  <source src="https://drive.google.com/file/d/1H6BFgbW3fCdR3xArGh5JQGZpbO9ugoOT/view?usp=drive_link" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+<iframe
+  src="https://drive.google.com/file/d/1H6BFgbW3fCdR3xArGh5JQGZpbO9ugoOT/preview"
+  width="100%"
+  height="80"
+  allow="autoplay">
+</iframe>
