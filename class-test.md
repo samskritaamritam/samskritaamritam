@@ -79,3 +79,49 @@ title: Sunday 10 AM — Test
 [▶ Class Recording](https://example.com)
 
 </details>
+
+<div class="class-layout">
+
+<div class="class-main">
+
+<details open markdown="1">
+<summary>गीतायाः भाषा-१</summary>
+
+## कक्षा १
+
+**पुटानि:** १–५
+
+- विषयः १
+- विषयः २
+
+[▶ दृश्यश्रव्यमुद्रणम्](https://example.com)
+
+---
+
+## कक्षा २
+
+**पुटानि:** ६–१०
+
+- विषयः १
+- विषयः २
+
+[▶ दृश्यश्रव्यमुद्रणम्](https://example.com)
+
+</details>
+
+</div>
+
+<div class="class-sidebar">
+
+<details open markdown="1">
+<summary>सामान्यसामग्री</summary>
+
+- [टिप्पनी](https://example.com)
+- [शब्दाः](https://example.com)
+- [अभ्यासपत्रम्](https://example.com)
+
+</details>
+
+</div>
+
+</div>

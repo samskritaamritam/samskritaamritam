@@ -46,3 +46,32 @@ details hr {
     border-top: 1px solid #ddd;
     margin: 1rem 0;
 }
+
+.class-layout {
+    display: grid;
+    grid-template-columns: minmax(0, 3fr) minmax(220px, 1fr);
+    gap: 1.5rem;
+    align-items: start;
+}
+
+.class-main,
+.class-sidebar {
+    min-width: 0;
+}
+
+.class-sidebar {
+    position: sticky;
+    top: 1rem;
+}
+
+/* On phones, put common material above the classes */
+@media (max-width: 700px) {
+    .class-layout {
+        grid-template-columns: 1fr;
+    }
+
+    .class-sidebar {
+        position: static;
+        order: -1;
+    }
+}
