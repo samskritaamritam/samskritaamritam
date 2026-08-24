@@ -1,4 +1,4 @@
-    ---
+---
 layout: default
 title: Sunday 10 AM — Test
 ---
