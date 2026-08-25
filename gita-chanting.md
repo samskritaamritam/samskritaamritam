@@ -6,12 +6,10 @@ subtitle: गीताध्यानम् एवं अष्टादश अ�
 
 <section class="gita-index">
 
-<a class="gita-dhyana-card" href="https://sites.google.com/samskritaamritam.co.in/classes/gita-dhyana-slokah?authuser=0">
-  <img src="{{ '/assets/images/gita/gita-dhyAnam.png' | relative_url }}" alt="गीताध्यानम्">
-  <div class="gita-dhyana-body">
-    <div class="gita-dhyana-title">गीताध्यानम्</div>
-    <div class="gita-dhyana-subtitle">नमोऽस्तु ते व्यास विशालबुद्धे</div>
-  </div>
+<a class="gita-dhyana-card"
+   href="https://sites.google.com/samskritaamritam.co.in/classes/gita-dhyana-slokah?authuser=0">
+  <img src="{{ '/assets/images/gita/gita-dhyAnam.png' | relative_url }}"
+       alt="गीताध्यानम्">
 </a>
 
 <div class="gita-grid">
