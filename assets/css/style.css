@@ -79,12 +79,14 @@ details hr {
 .book-summary {
     display: flex;
     align-items: center;
-    gap: 0.8rem;
+    gap: 1rem;
+    padding-bottom: 0.7rem;
+    border-bottom: 2px solid #ddd;
 }
 
 .book-cover {
-    width: 48px;
-    height: 64px;
+    width: 60px;
+    height: 80px;
     object-fit: cover;
     border-radius: 3px;
     flex-shrink: 0;
