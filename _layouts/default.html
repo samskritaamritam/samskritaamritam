@@ -13,7 +13,10 @@
         <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
     </head>
     <body>
-        {% include site-nav.html %}
+        <header class="site-header">
+            {% include site-nav.html %}
+            {% include class-header.html %}
+        </header>
 
         <main class="page">
             {{ content }}
