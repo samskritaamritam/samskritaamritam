@@ -81,6 +81,9 @@ details hr {
     border-radius: 10px;
     background: #fff;
     overflow: hidden;
+
+    /* padding for the class contents */
+    padding: 0 1rem 1rem 1rem;
     margin-bottom: 1.2rem;
 }
 
@@ -90,14 +93,18 @@ summary.book-summary {
     align-items: center;
     gap: 1rem;
 
-    padding: 0.8rem 0;
+    /* extend summary back across the padded book box */
+    margin: 0 -1rem;
+    padding: 0.8rem 1rem;
+
     cursor: pointer;
+    background: #f7f7f7;
 
     border: 0;
     border-radius: 0;
-    background: #f7f7f7;
 
     font-weight: 700;
+
 }
 
 .book-cover {
@@ -113,8 +120,9 @@ summary.book-summary {
     border-bottom: 2px solid #aaa;
 }
 
-.book-section[open] > .book-summary{
+.book-section[open] > summary.book-summary{
     border-bottom: 1px solid #ddd;
+    margin-bottom: 0.7rem;
 }
 
 .book-content {

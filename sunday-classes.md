@@ -12,13 +12,24 @@ subtitle: पूर्वाह्ने दशवादने, सायं न
 
 <details open markdown="1">
 <summary class="book-summary">
+
+.book-cover {
+    width: 60px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 3px;
+}
+
+.book-title {
+    font-size: 1.35rem;
+    padding-bottom: 0.45rem;
+    border-bottom: 2px solid #aaa;
+}
   <img src="{{ '/assets/images/books/gitAyAH-bhAShA-1.jpg' | relative_url }}"
        alt="गीतायाः भाषा-१"
        class="book-cover">
   <span class="book-title">गीतायाः भाषा-१</span>
 </summary>
-
-<div class="book-content" markdown="1">
 
 [▶ नवीनतमा कक्षा](#class-22)
 
@@ -242,8 +253,6 @@ subtitle: पूर्वाह्ने दशवादने, सायं न
 - टिप्पण्यां विशेषचिन्तनम् → आत्मनेपदप्रत्ययाः (२, ३, ५, ७, ८, ९)
 - **दृश्यश्रव्यमुद्रणम्:** [▶ पूर्वाह्ने १० वादने](https://drive.google.com/file/d/1Q9cxOYgO9dHzXrQC3QZdxYKYBCllD074/view?usp=drive_link) · [▶ सायं ९ वादने](https://drive.google.com/file/d/1Q9cxOYgO9dHzXrQC3QZdxYKYBCllD074/view?usp=drive_link)
 
-
-</div>
 
 </details>
 
