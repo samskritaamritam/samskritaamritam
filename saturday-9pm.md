@@ -11,7 +11,7 @@ subtitle: सायं नववादने
 <details class="book-section" open markdown="1">
 
 <summary class="book-summary">
-  <img src="{{ '/assets/images/books/sambhAShanam.jpg' | relative_url }}"
+  <img src="{{ '/assets/images/books/sambhAShanam.png' | relative_url }}"
        alt="सम्भाषणवर्गः"
        class="book-cover">
   <span class="book-title">सम्भाषणवर्गः</span>
