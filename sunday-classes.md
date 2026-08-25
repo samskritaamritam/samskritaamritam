@@ -6,7 +6,7 @@ subtitle: पूर्वाह्ने दशवादने, सायं न
 
 {% include class-header.html %}
 
-<div class="class-layout">
+    <div class="class-layout">
 
 <div class="class-main">
 
@@ -17,6 +17,8 @@ subtitle: पूर्वाह्ने दशवादने, सायं न
        class="book-cover">
   <span class="book-title">गीतायाः भाषा-१</span>
 </summary>
+
+<div class="book-content" markdown="1">
 
 [▶ नवीनतमा कक्षा](#class-22)
 
@@ -239,6 +241,9 @@ subtitle: पूर्वाह्ने दशवादने, सायं न
 - गीतायाः भाषा-१, पाठ-१४, पुटसंङ्ख्या - ८९-९०
 - टिप्पण्यां विशेषचिन्तनम् → आत्मनेपदप्रत्ययाः (२, ३, ५, ७, ८, ९)
 - **दृश्यश्रव्यमुद्रणम्:** [▶ पूर्वाह्ने १० वादने](https://drive.google.com/file/d/1Q9cxOYgO9dHzXrQC3QZdxYKYBCllD074/view?usp=drive_link) · [▶ सायं ९ वादने](https://drive.google.com/file/d/1Q9cxOYgO9dHzXrQC3QZdxYKYBCllD074/view?usp=drive_link)
+
+
+</div>
 
 </details>
 
