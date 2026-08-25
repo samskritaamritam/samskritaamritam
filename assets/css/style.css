@@ -76,16 +76,18 @@ details hr {
     }
 }
 
-.book-summary {
+summary.book-summary {
     display: flex;
     align-items: center;
     gap: 1rem;
 
-    padding: 0.7rem 0;
+    padding: 0.7rem 0 0.8rem 0;
+
     background: transparent;
-    border: 0;
+    border: none;
     border-radius: 0;
-    border-bottom: 2px solid #ddd;
+
+    border-bottom: 2px solid #bbb;
 }
 
 .book-cover {
