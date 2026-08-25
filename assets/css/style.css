@@ -238,33 +238,21 @@ details[open] > summary.book-summary::after {
 }
 
 .gita-dhyana-card {
-    display: grid;
-    grid-template-columns: 120px 1fr;
-    align-items: center;
-    gap: 1.5rem;
-
-    max-width: 680px;
+    display: block;
+    width: 220px;
     margin: 0 auto 1.6rem;
-
-    margin: 0 0 1.6rem;
-    padding: 0.8rem;
-
     border: 1px solid #ccc;
-    border-radius: 12px;
-    background: #fff;
-
-    color: inherit;
-    text-decoration: none;
+    border-radius: 10px;
     overflow: hidden;
+    background: #fff;
+    text-decoration: none;
 }
 
 .gita-dhyana-card img {
-    width: 120px;
-    height: 150px;
-    object-fit: cover;
-    border-radius: 8px;
+    display: block;
+    width: 100%;
+    height: auto;
 }
-
 .gita-dhyana-title {
     font-size: 1.65rem;
     font-weight: 700;
