@@ -6,10 +6,6 @@ subtitle: पूर्वाह्ने दशवादने, सायं न
 
 {% include class-header.html %}
 
-# रविवासरस्य वर्गौ
-
-**पूर्वाह्ने दशवादने, सायं नववादने च**
-
 <div class="class-layout">
 
 <div class="class-main">

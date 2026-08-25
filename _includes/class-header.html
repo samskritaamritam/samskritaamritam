@@ -1,6 +1,9 @@
 <header class="class-hero">
-    <div>
+    <div class="class-hero-content">
         <div class="class-hero-title">{{ page.title }}</div>
+
+        {% if page.subtitle %}
         <div class="class-hero-subtitle">{{ page.subtitle }}</div>
+        {% endif %}
     </div>
 </header>
