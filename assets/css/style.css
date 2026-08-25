@@ -75,3 +75,17 @@ details hr {
         order: -1;
     }
 }
+
+.book-summary {
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+}
+
+.book-cover {
+    width: 48px;
+    height: 64px;
+    object-fit: cover;
+    border-radius: 3px;
+    flex-shrink: 0;
+}
