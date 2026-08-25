@@ -3,6 +3,8 @@ layout: default
 title: रविवासरस्य वर्गौ
 ---
 
+{% include class-header.html %}
+
 # रविवासरस्य वर्गौ
 
 **पूर्वाह्ने दशवादने, सायं नववादने च**

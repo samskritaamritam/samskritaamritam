@@ -125,3 +125,56 @@ summary.book-summary::after {
 details[open] > summary.book-summary::after {
     content: "▲";
 }
+
+/* Traditional header */
+.traditional-header {
+    margin-bottom: 1.5rem;
+    border-radius: 12px;
+    overflow: hidden;
+
+    background:
+        linear-gradient(
+            135deg,
+            #8b2f20 0%,
+            #b85c2f 38%,
+            #d99a3e 72%,
+            #f0c36a 100%
+        );
+
+    border: 1px solid #a85b30;
+}
+
+.traditional-header-inner {
+    text-align: center;
+    padding: 1.5rem 1rem;
+
+    background:
+        radial-gradient(
+            circle at center,
+            rgba(255,255,255,0.16),
+            rgba(255,255,255,0) 65%
+        );
+}
+
+.traditional-header-title {
+    color: #fff8e7;
+    font-size: 2.2rem;
+    font-weight: 700;
+    line-height: 1.3;
+}
+
+.traditional-header-motto {
+    color: #fff1c7;
+    margin-top: 0.35rem;
+    font-size: 1.05rem;
+}
+
+@media (max-width: 700px) {
+    .traditional-header-inner {
+        padding: 1.1rem 0.75rem;
+    }
+
+    .traditional-header-title {
+        font-size: 1.8rem;
+    }
+}
