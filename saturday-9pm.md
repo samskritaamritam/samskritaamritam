@@ -9,7 +9,6 @@ subtitle: सायं नववादने
 <div class="class-main">
 
 <details class="book-section" open markdown="1">
-<summary><strong>सम्भाषणवर्गाः</strong></summary>
 
 <summary class="book-summary">
   <img src="{{ '/assets/images/books/sambhAShanam.jpg' | relative_url }}"
