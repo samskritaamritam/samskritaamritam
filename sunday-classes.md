@@ -6,25 +6,13 @@ subtitle: पूर्वाह्ने दशवादने, सायं न
 
 {% include class-header.html %}
 
-    <div class="class-layout">
+<div class="class-layout">
 
 <div class="class-main">
 
-<details open markdown="1">
+<details class="book-section" open markdown="1">
+
 <summary class="book-summary">
-
-.book-cover {
-    width: 60px;
-    height: 80px;
-    object-fit: cover;
-    border-radius: 3px;
-}
-
-.book-title {
-    font-size: 1.35rem;
-    padding-bottom: 0.45rem;
-    border-bottom: 2px solid #aaa;
-}
   <img src="{{ '/assets/images/books/gitAyAH-bhAShA-1.jpg' | relative_url }}"
        alt="गीतायाः भाषा-१"
        class="book-cover">
