@@ -16,7 +16,7 @@ title: रविवासरस्य वर्गौ
   <img src="{{ '/assets/images/books/gitAyAH-bhAShA-1.jpg' | relative_url }}"
        alt="गीतायाः भाषा-१"
        class="book-cover">
-  <span>गीतायाः भाषा-१</span>
+  <span class="book-title">गीतायाः भाषा-१</span>
 </summary>
 
 [▶ नवीनतमा कक्षा](#class-22)
