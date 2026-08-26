@@ -253,15 +253,6 @@ details[open] > summary.book-summary::after {
     width: 100%;
     height: auto;
 }
-.gita-dhyana-title {
-    font-size: 1.65rem;
-    font-weight: 700;
-}
-
-.gita-dhyana-subtitle {
-    margin-top: 0.4rem;
-    font-size: 1.05rem;
-}
 
 .gita-grid {
     display: grid;
@@ -291,6 +282,7 @@ details[open] > summary.book-summary::after {
 
 .gita-card-body {
     padding: 0.75rem 0.85rem 0.9rem;
+    text-align: center;
 }
 
 .gita-card-number {
