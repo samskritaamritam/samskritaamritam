@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 title: गीताध्यानम्
-permalink: /gita-dhyanam/
 ---
 
 # गीताध्यानम्
