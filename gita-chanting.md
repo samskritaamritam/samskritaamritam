@@ -8,7 +8,7 @@ subtitle: गीताध्यानम् एवं अष्टादश अ�
 
 <div class="gita-dhyana-row">
   <a class="gita-card active"
-     href="https://sites.google.com/samskritaamritam.co.in/classes/gita-dhyana-slokah?authuser=0">
+     href="https://samskritaamritam.github.io/samskritaamritam/gita-dhyanam.html">
 
     <img src="{{ '/assets/images/gita/gita-dhyAnam.png' | relative_url }}"
          alt="गीताध्यानम्">
