@@ -12,6 +12,7 @@ subtitle: गीताध्यानम् एवं अष्टादश अ�
 
     <img src="{{ '/assets/images/gita/gita-dhyAnam.png' | relative_url }}"
          alt="गीताध्यानम्">
+
     <div class="gita-card-body">
       <div class="gita-card-title">गीताध्यानम्</div>
     </div>

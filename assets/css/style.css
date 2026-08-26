@@ -314,6 +314,13 @@ details[open] > summary.book-summary::after {
     box-shadow: 0 5px 14px rgba(0,0,0,0.12);
 }
 
+.gita-dhyana-row {
+    display: grid;
+    grid-template-columns: 220px;
+    justify-content: center;
+    margin-bottom: 1.5rem;
+}
+
 .gita-card.current {
     border: 2px solid #9a7440;
 }
