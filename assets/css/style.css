@@ -380,3 +380,56 @@ details[open] > summary.book-summary::after {
     height: auto;
     border-radius: 10px;
 }
+/* Gita Dhyanam sloka boxes */
+
+.gita-sloka {
+    max-width: 720px;
+    margin: 0 auto 1.5rem;
+    padding: 1.25rem 1.5rem;
+
+    background: #f7f7f7;
+    border: 1px solid #d8d8d8;
+    border-radius: 8px;
+}
+
+.gita-sloka h2 {
+    margin: 0 0 1rem;
+    padding-bottom: 0.6rem;
+
+    text-align: center;
+    font-size: 1.2rem;
+    line-height: 1.4;
+
+    border-bottom: 1px solid #d0d0d0;
+}
+
+.sloka-text {
+    width: fit-content;
+    max-width: 100%;
+    margin: 0 auto;
+
+    text-align: left;
+    font-size: 1.1rem;
+    line-height: 1.9;
+}
+
+.sloka-audio {
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.sloka-audio p {
+    margin: 0;
+}
+
+@media (max-width: 700px) {
+    .gita-sloka {
+        padding: 1rem;
+    }
+
+    .sloka-text {
+        width: 100%;
+        font-size: 1rem;
+        line-height: 1.8;
+    }
+}
