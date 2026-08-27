@@ -368,3 +368,15 @@ details[open] > summary.book-summary::after {
         font-size: 1.35rem;
     }
 }
+
+.gita-page-image {
+    text-align: center;
+    margin: 0 auto 2rem;
+}
+
+.gita-page-image img {
+    width: 220px;
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
