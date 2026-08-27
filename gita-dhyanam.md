@@ -3,6 +3,7 @@ layout: default
 title: गीताध्यानम्
 ---
 
+<section class="gita-index">
 <div class="gita-dhyana-row">
   <a class="gita-card active"
 
