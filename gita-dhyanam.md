@@ -21,7 +21,7 @@ permalink: /gita-dhyanam/
 </div>
 
 <div class="sloka-audio">
-[🔊 श्रवणम्](https://drive.google.com/file/d/1dWKTb87PEPirPmz7v6Kew9HkBNdX8kIo/view)
+<a href="https://drive.google.com/file/d/1dWKTb87PEPirPmz7v6Kew9HkBNdX8kIo/view" [🔊 श्रवणम्] </a>
 </div>
 
 </div>
@@ -36,7 +36,7 @@ permalink: /gita-dhyanam/
 </div>
 
 <div class="sloka-audio">
-[🔊 श्रवणम्](https://drive.google.com/file/d/1Y83NHpQ54hZcstULKkF1me7HNLdYu2DO/view)
+<a href="https://drive.google.com/file/d/1Y83NHpQ54hZcstULKkF1me7HNLdYu2DO/view" [🔊 श्रवणम्] </a>
 </div>
 
 </div>
@@ -51,7 +51,7 @@ permalink: /gita-dhyanam/
 </div>
 
 <div class="sloka-audio">
-[🔊 श्रवणम्](https://drive.google.com/file/d/1RA3Cza8swjx1z6tY1vjo0b0YwDG0P6vV/view)
+<a href= "https://drive.google.com/file/d/1RA3Cza8swjx1z6tY1vjo0b0YwDG0P6vV/view" [🔊 श्रवणम्] </a>
 </div>
 
 </div>
@@ -66,7 +66,7 @@ permalink: /gita-dhyanam/
 </div>
 
 <div class="sloka-audio">
-[🔊 श्रवणम्](https://drive.google.com/file/d/1uJULuQPfbtGs1tunqFCIfi5PtmWCrJjt/view)
+<a href= "https://drive.google.com/file/d/1uJULuQPfbtGs1tunqFCIfi5PtmWCrJjt/view" [🔊 श्रवणम्] </a>
 </div>
 
 </div>
@@ -81,7 +81,7 @@ permalink: /gita-dhyanam/
 </div>
 
 <div class="sloka-audio">
-[🔊 श्रवणम्](https://drive.google.com/file/d/1rOQ-5ab4UQVbR7c97i5Zd7m1uh71HkPg/view)
+<a href= "https://drive.google.com/file/d/1rOQ-5ab4UQVbR7c97i5Zd7m1uh71HkPg/view" [🔊 श्रवणम्] </a>
 </div>
 
 </div>
@@ -98,7 +98,7 @@ permalink: /gita-dhyanam/
 </div>
 
 <div class="sloka-audio">
-[🔊 श्रवणम्](https://drive.google.com/file/d/1VUK9Fc0N_PpvbbGB9GfRMQdJLM8Ex0wS/view)
+<a href= "https://drive.google.com/file/d/1VUK9Fc0N_PpvbbGB9GfRMQdJLM8Ex0wS/view" [🔊 श्रवणम्] </a>
 </div>
 
 </div>
@@ -115,7 +115,7 @@ permalink: /gita-dhyanam/
 </div>
 
 <div class="sloka-audio">
-[🔊 श्रवणम्](https://drive.google.com/file/d/1jAWYCGDbmZaFcoKufiUehwDy8KLUybXv/view)
+<a href= "https://drive.google.com/file/d/1jAWYCGDbmZaFcoKufiUehwDy8KLUybXv/view" [🔊 श्रवणम्] </a>
 </div>
 
 </div>
