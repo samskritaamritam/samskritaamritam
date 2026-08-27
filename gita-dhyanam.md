@@ -3,7 +3,13 @@ layout: default
 title: गीताध्यानम्
 ---
 
-# गीताध्यानम्
+<div class="gita-dhyana-row">
+  <a class="gita-card active"
+
+    <img src="{{ '/assets/images/gita/gita-dhyAnam.png' | relative_url }}"
+         alt="गीताध्यानम्">
+  </a>
+</div>
 
 ## गीताध्यानश्लोकः १
 
