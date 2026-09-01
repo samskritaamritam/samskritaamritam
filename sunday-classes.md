@@ -11,7 +11,7 @@ subtitle: पूर्वाह्ने दशवादने, सायं न
 <details class="book-section" open markdown="1">
 
 <summary class="book-summary">
-  <img src="{{ '/assets/images/books/gitAyAH-bhAShA-1.jpg' | relative_url }}"
+  <img src="{{ '/assets/images/books/gItAyAH-bhAShA-1.jpg' | relative_url }}"
        alt="गीतायाः भाषा-१"
        class="book-cover">
   <span class="book-title">गीतायाः भाषा-१</span>
