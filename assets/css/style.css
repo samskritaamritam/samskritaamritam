@@ -433,3 +433,115 @@ details[open] > summary.book-summary::after {
         line-height: 1.8;
     }
 }
+
+/* ===== Home page ===== */
+
+.home-welcome {
+    max-width: 860px;
+    margin: 0 auto 2.5rem;
+    text-align: center;
+}
+
+.home-welcome h1 {
+    margin-bottom: 1.5rem;
+}
+
+.home-welcome-text {
+    max-width: 760px;
+    margin: 0 auto;
+    font-size: 1.12rem;
+    line-height: 1.9;
+}
+
+.home-welcome-text p {
+    margin: 0 0 1.25rem;
+}
+
+.home-jaya {
+    font-weight: 600;
+}
+
+.home-section {
+    max-width: 900px;
+    margin: 0 auto 3rem;
+}
+
+.home-section > h2 {
+    text-align: center;
+    margin-bottom: 1.25rem;
+}
+
+.home-card-grid {
+    display: grid;
+    gap: 1rem;
+    justify-content: center;
+}
+
+.home-class-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.home-card {
+    display: block;
+    overflow: hidden;
+    background: #f7f7f7;
+    border: 1px solid #d8d8d8;
+    border-radius: 10px;
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.home-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.10);
+}
+
+.home-card-body {
+    padding: 1rem;
+    text-align: center;
+}
+
+.home-card-title {
+    font-size: 1.08rem;
+    font-weight: 600;
+    line-height: 1.5;
+}
+
+.home-card-subtitle {
+    margin-top: 0.35rem;
+    font-size: 0.95rem;
+    line-height: 1.5;
+}
+
+.home-card-action {
+    margin-top: 0.8rem;
+    font-size: 0.95rem;
+    text-decoration: underline;
+}
+
+.home-feature-row {
+    display: grid;
+    grid-template-columns: 220px;
+    justify-content: center;
+}
+
+.home-feature-card img {
+    display: block;
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+}
+
+@media (max-width: 800px) {
+    .home-class-grid {
+        grid-template-columns: 1fr;
+        max-width: 430px;
+        margin: 0 auto;
+    }
+
+    .home-welcome-text {
+        font-size: 1rem;
+        line-height: 1.8;
+    }
+}
