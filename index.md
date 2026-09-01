@@ -22,26 +22,46 @@ permalink: /
 <section class="home-section">
   <h2>कक्षाः</h2>
 
-  <div class="home-card-grid home-class-grid">
+  <div class="home-feature-grid">
 
-    <a class="home-card" href="{{ '/saturday-7am.html' | relative_url }}">
+    <a class="home-card home-feature-card"
+       href="{{ '/saturday-7am.html' | relative_url }}">
+      <img src="{{ '/assets/images/classes/sambhAShanam.png' | relative_url }}"
+           alt="शनिवासरस्य सम्भाषणवर्गः">
       <div class="home-card-body">
-        <div class="home-card-title">शनिवासरः — प्रातः ७ वादनम् (Sat 7am)</div>
+        <div class="home-card-title">
+          शनिवासरः — प्रातः ७ वादनम्<br>
+          Sat - 7.00 AM IST
+        </div>
         <div class="home-card-action">प्रविशतु →</div>
       </div>
     </a>
 
-    <a class="home-card" href="{{ '/saturday-9pm.html' | relative_url }}">
+    <a class="home-card home-feature-card"
+       href="{{ '/saturday-9pm.html' | relative_url }}">
+      <img src="{{ '/assets/images/classes/sambhAShanam.png' | relative_url }}"
+           alt="शनिवासरस्य सम्भाषणवर्गः">
       <div class="home-card-body">
-        <div class="home-card-title">शनिवासरः — रात्रौ ९ वादनम् (Sat 9pm)</div>
+        <div class="home-card-title">
+          शनिवासरः — रात्रौ ९ वादनम्<br>
+          Sat - 9:00 PM IST
+        </div>
         <div class="home-card-action">प्रविशतु →</div>
       </div>
     </a>
 
-    <a class="home-card" href="{{ '/sunday-classes.html' | relative_url }}">
+    <a class="home-card home-feature-card"
+       href="{{ '/sunday-classes.html' | relative_url }}">
+      <img src="{{ '/assets/images/classes/gitAyAH-bhAShA-1.png' | relative_url }}"
+           alt="गीतायाः भाषा">
       <div class="home-card-body">
-        <div class="home-card-title">रविवासरस्य वर्गौ</div>
-        <div class="home-card-subtitle">पूर्वाह्ने दशवादने, सायं नववादने च (Sun 10am + 9pm)</div>
+        <div class="home-card-title">
+          रविवासरस्य वर्गौ
+        </div>
+        <div class="home-card-subtitle">
+          पूर्वाह्ने दशवादने, सायं नववादने च<br>
+          Sun - 10:00 AM &amp; 9:00 PM IST
+        </div>
         <div class="home-card-action">प्रविशतु →</div>
       </div>
     </a>
