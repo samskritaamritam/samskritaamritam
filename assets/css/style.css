@@ -544,3 +544,27 @@ details[open] > summary.book-summary::after {
         line-height: 1.8;
     }
 }
+.home-feature-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 220px);
+    justify-content: center;
+    gap: 1rem;
+}
+
+.home-feature-card img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+@media (max-width: 800px) {
+    .home-feature-grid {
+        grid-template-columns: repeat(2, 220px);
+    }
+}
+
+@media (max-width: 520px) {
+    .home-feature-grid {
+        grid-template-columns: minmax(0, 320px);
+    }
+}
