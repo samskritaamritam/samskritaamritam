@@ -1,16 +1,34 @@
 <nav class="site-nav">
     <div class="site-brand">
-        <img src="{{ '/assets/images/logo/samskritaamritam-logo.png' | relative_url }}"
-             alt="संस्कृतामृतम्"
-             class="site-logo">
-        <span class="site-name">संस्कृतामृतम्</span>
+        <a href="{{ '/' | relative_url }}" class="site-brand-link">
+            <img src="{{ '/assets/images/logo/samskritaamritam-logo.png' | relative_url }}"
+                 alt="संस्कृतामृतम्"
+                 class="site-logo">
+            <span class="site-name">संस्कृतामृतम्</span>
+        </a>
     </div>
 
     <div class="site-links">
         <a href="{{ '/' | relative_url }}">Home</a>
-        <a href="{{ '/sunday-classes.html' | relative_url }}">रविवासरवर्गौ</a>
-        <a href="#">Saturday Classes</a>
-        <a href="#">भगवद्गीता</a>
-        <a href="#">कार्यक्रमाः</a>
+
+        <a href="{{ '/sunday-classes.html' | relative_url }}">
+            Sunday Classes
+        </a>
+
+        <a href="{{ '/saturday-7am.html' | relative_url }}">
+            Saturday 7 AM
+        </a>
+
+        <a href="{{ '/saturday-9pm.html' | relative_url }}">
+            Saturday 9 PM
+        </a>
+
+        <a href="{{ '/gita-chanting.html' | relative_url }}">
+            Bhagavad Gita
+        </a>
+
+        <a href="#">
+            Programs
+        </a>
     </div>
 </nav>
