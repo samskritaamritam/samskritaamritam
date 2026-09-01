@@ -50,7 +50,7 @@ permalink: /
 
     <a class="home-card home-feature-card"
        href="{{ '/sunday-classes.html' | relative_url }}">
-      <img src="{{ '/assets/images/classes/gItAyAH-bhAShA-1.png' | relative_url }}"
+      <img src="{{ '/assets/images/classes/gItAyAH-bhAShA-1.jpg' | relative_url }}"
            alt="गीतायाः भाषा">
       <div class="home-card-body">
         <div class="home-card-title">
