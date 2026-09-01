@@ -33,7 +33,6 @@ permalink: /
           शनिवासरः — प्रातः ७ वादनम्<br>
           Sat - 7.00 AM IST
         </div>
-        <div class="home-card-action">प्रविशतु →</div>
       </div>
     </a>
 
@@ -46,7 +45,6 @@ permalink: /
           शनिवासरः — रात्रौ ९ वादनम्<br>
           Sat - 9:00 PM IST
         </div>
-        <div class="home-card-action">प्रविशतु →</div>
       </div>
     </a>
 
@@ -62,7 +60,6 @@ permalink: /
           पूर्वाह्ने दशवादने, सायं नववादने च<br>
           Sun - 10:00 AM &amp; 9:00 PM IST
         </div>
-        <div class="home-card-action">प्रविशतु →</div>
       </div>
     </a>
 
@@ -78,7 +75,6 @@ permalink: /
            alt="भगवद्गीतापारायणम्">
       <div class="home-card-body">
         <div class="home-card-title">श्रीमद्भगवद्गीता</div>
-        <div class="home-card-action">प्रविशतु →</div>
       </div>
     </a>
   </div>

@@ -514,12 +514,6 @@ details[open] > summary.book-summary::after {
     line-height: 1.5;
 }
 
-.home-card-action {
-    margin-top: 0.8rem;
-    font-size: 0.95rem;
-    text-decoration: underline;
-}
-
 .home-feature-row {
     display: grid;
     grid-template-columns: 220px;
