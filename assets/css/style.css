@@ -506,6 +506,18 @@ details[open] > summary.book-summary::after {
     }
 }
 
+.gita-chapter-stamp {
+    display: flex;
+    justify-content: center;
+    margin: 0.75rem auto 1.25rem;
+}
+
+.gita-chapter-stamp img {
+    width: 120px !important;
+    max-width: 120px !important;
+    height: auto !important;
+    flex: none;
+}
 
 
 /* ===== Home page ===== */
