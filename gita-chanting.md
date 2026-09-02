@@ -23,7 +23,7 @@ subtitle: गीताध्यानम् एवं अष्टादश अ�
 <div class="gita-grid">
 
 
-<a class="gita-card active" href="https://sites.google.com/samskritaamritam.co.in/classes/gita-first-chapter?authuser=0">
+<a class="gita-card active" href="{{ '/gita-chapter-1/' | relative_url }}">
 <img src="{{ '/assets/images/gita/viShada-yogaH.png' | relative_url }}" alt="अर्जुनविषादयोगः">
 <div class="gita-card-body">
   <div class="gita-card-number">अध्यायः १</div>
