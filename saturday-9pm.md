@@ -18,7 +18,7 @@ subtitle: सायं नववादने
 </summary>
 
 
-[▶ नवीनतमा कक्षा](#class-23)
+[▶ नवीनतमा कक्षा](#class-24)
 
 <a id="class-1"></a>
 ## Class-01 (21-02-2026)
@@ -247,6 +247,16 @@ subtitle: सायं नववादने
 - **Video:** [Video](https://drive.google.com/file/d/1eeT_WhcWIo3qTmMFUD_8pqQyYbRac_7A/view?usp=drive_link)
 - **PPT:** [PPT](https://drive.google.com/file/d/1l5Z4CIFLwZzdhhIW8aulI1HwxlyYqWUL/view?usp=drive_link)
 - **Topic Videos:** [tumun](https://drive.google.com/file/d/1grBhjEUl8tkPa189ayRfKa8_ZST0BMMf/view?usp=drive_link), [karaNam](https://drive.google.com/file/d/13b3rX1ql71tOJ8iQwn2o9pLVPa-asQQt/view?usp=drive_link)
+
+---
+
+<a id="class-24"></a>
+## Class-24 (29-08-2026)
+
+- Topics: tumun, sankhya ( 80 - 9 0)
+- **Video:** [Video](https://drive.google.com/file/d/1JlSkw-YbZwALS2XJ-mE0nG_X6ymAjI1b/view?usp=drive_link)
+- **PPT:** [PPT](https://drive.google.com/file/d/1-uaQC6ESXSUCkF4ZVGIprzP9N69gqVV7/view?usp=drive_link)
+- **Topic Videos:** [saha](), [sampradAnam](https://drive.google.com/file/d/13VI1D-9LqcGgk3t0WBgmIIVIRQq7YWJ1/view?usp=drive_link)
 
 ---
 

@@ -17,7 +17,7 @@ subtitle: प्रातः सप्तवादने
   <span class="book-title">सम्भाषणवर्गः</span>
 </summary>
 
-[▶ नवीनतमा कक्षा](#class-2)
+[▶ नवीनतमा कक्षा](#class-3)
 
 <a id="class-1"></a>
 ## Class-01 (15-08-2026)
@@ -36,7 +36,17 @@ subtitle: प्रातः सप्तवादने
 - Topics: saH, sA, tat, eShaH, eShA, etat, akSharANi
 - **Video:** [Video](https://drive.google.com/file/d/1aMDYyKFVINRjxxwrEoGmQKPYM36Rekpl/view?usp=drive_link)
 - **PPT:** [PPT](https://drive.google.com/file/d/1QboYlGID4Gwi8P88cm29ILImS6XKRLYC/view?usp=drive_link)
-- Topic-videos: eShaH kaH , eShA kA , etat kim , saH kaH , sA kA , tat kim: [eShaH kaH](https://drive.google.com/file/d/1uyXkgcZNqNWMuDs3a7XRCJJvNhTPgO_y/view?usp=drive_link), [eShA kA](https://drive.google.com/file/d/1fsnHay4WcEMKNlK_2dfa0xBeLuJcKeEb/view?usp=drive_link), [etat kim](https://drive.google.com/file/d/1eRHPSoXZZs1Sj0GUPCpH5GnfRQ9NQLqM/view?usp=drive_link), [saH kaH](https://drive.google.com/file/d/16WDY-mZNoYk9i3aL5WK14yR26U3EsT8w/view?usp=drive_link), [sA kA](https://drive.google.com/file/d/1oDjwzcz3zCfFMQQuosF4UtqNjGVA69hR/view?usp=drive_link), [tat kim](https://drive.google.com/file/d/13v9w7ER3gwhT3UAG8FRNfx666FFtfVUC/view?usp=drive_link)
+- **Topic-videos:** eShaH kaH , eShA kA , etat kim , saH kaH , sA kA , tat kim: [eShaH kaH](https://drive.google.com/file/d/1uyXkgcZNqNWMuDs3a7XRCJJvNhTPgO_y/view?usp=drive_link), [eShA kA](https://drive.google.com/file/d/1fsnHay4WcEMKNlK_2dfa0xBeLuJcKeEb/view?usp=drive_link), [etat kim](https://drive.google.com/file/d/1eRHPSoXZZs1Sj0GUPCpH5GnfRQ9NQLqM/view?usp=drive_link), [saH kaH](https://drive.google.com/file/d/16WDY-mZNoYk9i3aL5WK14yR26U3EsT8w/view?usp=drive_link), [sA kA](https://drive.google.com/file/d/1oDjwzcz3zCfFMQQuosF4UtqNjGVA69hR/view?usp=drive_link), [tat kim](https://drive.google.com/file/d/13v9w7ER3gwhT3UAG8FRNfx666FFtfVUC/view?usp=drive_link)
+
+---
+
+<a id="class-3"></a>
+## Class-03 (29-08-2026)
+
+- Topics: va, aam, na, akSharANi
+- **Video:** [Video](https://drive.google.com/file/d/1To_qtt9-cx31fBDCkZw05Oty0dBn47ge/view?usp=drive_link)
+- **PPT:** [PPT](https://drive.google.com/file/d/12Kb-NLE1LNswpjoBfKHgNeWgC7J5LvdM/view?usp=drive_link)
+- **Topic-videos:** [va-aam-na](https://drive.google.com/file/d/1Gkb8pdONJniE1N0Ao58pC7k9tBD4EbKO/view?usp=drive_link) 
 
 ---
 
