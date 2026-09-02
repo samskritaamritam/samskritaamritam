@@ -441,6 +441,71 @@ details[open] > summary.book-summary::after {
     }
 }
 
+.gita-chapter {
+    max-width: 760px;
+    margin: 0 auto;
+}
+
+.gita-chapter-heading {
+    text-align: center;
+    margin: 1rem 0 2rem;
+}
+
+.gita-invocation {
+    font-size: 1.15rem;
+    margin-bottom: 0.35rem;
+}
+
+.gita-chapter-heading h1 {
+    margin: 0;
+}
+
+.gita-passage {
+    background: #f5f5f5;
+    border: 1px solid #e2e2e2;
+    border-radius: 12px;
+    padding: 1.25rem 1.5rem;
+    margin: 0 0 1.35rem;
+}
+
+.gita-passage h2 {
+    text-align: center;
+    margin: 0 0 1.2rem;
+}
+
+.gita-speaker {
+    text-align: center;
+    font-weight: 700;
+    margin: 1rem 0 0.55rem;
+}
+
+.gita-verse {
+    line-height: 1.8;
+    margin: 0 0 0.9rem;
+}
+
+.gita-audio {
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.gita-audio a {
+    text-decoration: none;
+    font-weight: 600;
+}
+
+@media (max-width: 600px) {
+    .gita-passage {
+        padding: 1rem;
+    }
+
+    .gita-verse {
+        line-height: 1.7;
+    }
+}
+
+
+
 /* ===== Home page ===== */
 
 .home-welcome {
@@ -522,8 +587,16 @@ details[open] > summary.book-summary::after {
 }
 
 .home-feature-row {
+    display: grid;
     grid-template-columns: 220px;
     justify-content: center;
+}
+
+.home-feature-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 220px);
+    justify-content: center;
+    gap: 1rem;
 }
 
 .home-feature-card img {
@@ -543,21 +616,7 @@ details[open] > summary.book-summary::after {
         font-size: 1rem;
         line-height: 1.8;
     }
-}
-.home-feature-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 220px);
-    justify-content: center;
-    gap: 1rem;
-}
 
-.home-feature-card img {
-    display: block;
-    width: 100%;
-    height: auto;
-}
-
-@media (max-width: 800px) {
     .home-feature-grid {
         grid-template-columns: repeat(2, 220px);
     }
