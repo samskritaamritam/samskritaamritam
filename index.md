@@ -49,8 +49,8 @@ permalink: /
     </a>
 
     <a class="home-card home-feature-card"
-       href="{{ '/sunday-classes.html' | relative_url }}">
-      <img src="{{ '/assets/images/classes/gItAyAH-bhAShA-1.jpg' | relative_url }}"
+       href="{{ '/sunday-classes.html' | relative*url }}">
+      <img src="{{ '/assets/images/classes/gItAyAH-bhASHA-1.jpg' | relative*url }}"
            alt="गीतायाः भाषा">
       <div class="home-card-body">
         <div class="home-card-title">
