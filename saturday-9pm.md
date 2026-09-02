@@ -253,10 +253,10 @@ subtitle: सायं नववादने
 <a id="class-24"></a>
 ## Class-24 (29-08-2026)
 
-- Topics: tumun, sankhya ( 80 - 9 0)
+- Topics: karaNam, saha, sampradAnam
 - **Video:** [Video](https://drive.google.com/file/d/1JlSkw-YbZwALS2XJ-mE0nG_X6ymAjI1b/view?usp=drive_link)
 - **PPT:** [PPT](https://drive.google.com/file/d/1-uaQC6ESXSUCkF4ZVGIprzP9N69gqVV7/view?usp=drive_link)
-- **Topic Videos:** [saha](), [sampradAnam](https://drive.google.com/file/d/13VI1D-9LqcGgk3t0WBgmIIVIRQq7YWJ1/view?usp=drive_link)
+- **Topic Videos:** [karaNam](https://drive.google.com/file/d/13b3rX1ql71tOJ8iQwn2o9pLVPa-asQQt/view?usp=drive_link), [saha](), [sampradAnam](https://drive.google.com/file/d/13VI1D-9LqcGgk3t0WBgmIIVIRQq7YWJ1/view?usp=drive_link)
 
 ---
 

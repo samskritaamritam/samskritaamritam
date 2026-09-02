@@ -243,7 +243,7 @@ subtitle: पूर्वाह्ने दशवादने, सायं न
 ---
 
 <a id="class-23"></a>
-## कक्षा-२२ (३०-०८-२०२६)
+## कक्षा-२३ (३०-०८-२०२६)
 
 - गीतायाः भाषा-१, पाठ-१४, पुटसंङ्ख्या - ९५-९६
 - **दृश्यश्रव्यमुद्रणम्:** [▶ पूर्वाह्ने १० वादने](https://drive.google.com/file/d/1FRTPdYaLj6I8WIZt_F7BTfVsNztSu3p6/view?usp=drive_link) · [▶ सायं ९ वादने](https://drive.google.com/file/d/17ltjckWz8aWljTHi1awoHwUGAKyVoIOZ/view?usp=drive_link)
