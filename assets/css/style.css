@@ -480,8 +480,10 @@ details[open] > summary.book-summary::after {
 }
 
 .gita-verse {
+    max-width: 560px;
+    margin: 0 auto 0.9rem;
     line-height: 1.8;
-    margin: 0 0 0.9rem;
+    text-align: left;
 }
 
 .gita-audio {
