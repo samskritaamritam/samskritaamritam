@@ -653,15 +653,15 @@ details[open] > summary.book-summary::after {
     max-width: 45vw;
     height: auto;
 }
+
 .class-hero.home-hero {
-    background: #f5f3ee;
-    padding: 1.5rem 1rem;
+    background: #faf9f6;
+    padding: 12px 1rem;
 }
 
 .class-hero-logo {
     display: block;
     width: 200px;
-    max-width: 45vw;
     height: auto;
     margin: 0 auto;
 }
