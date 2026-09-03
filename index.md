@@ -2,14 +2,10 @@
 layout: default
 title: संस्कृतामृतपाठमाला
 permalink: /
-hide-title: true
+home_logo: true
 ---
 
 <section class="home-welcome">
- <div class="home-logo">
-<img src="{{ '/assets/images/logo/samskritaamritam-logo.png' | relative_url }}"
-       alt="संस्कृतामृतम्">
-  </div> 
 
 <!--
   <div class="home-welcome-text">
