@@ -1,11 +1,17 @@
-{% unless page.hide_title %}
-<header class="class-hero">
+<header class="class-hero {% if page.home_logo %}home-hero{% endif %}">
     <div class="class-hero-content">
+
+        {% if page.home_logo %}
+        <img class="class-hero-logo"
+             src="{{ '/assets/images/logo/samskritaamritam-logo.png' | relative_url }}"
+             alt="संस्कृतामृतम्">
+        {% else %}
         <div class="class-hero-title">{{ page.title }}</div>
 
         {% if page.subtitle %}
         <div class="class-hero-subtitle">{{ page.subtitle }}</div>
         {% endif %}
+        {% endif %}
+
     </div>
 </header>
-{% endunless %}
