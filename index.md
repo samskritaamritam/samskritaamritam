@@ -2,11 +2,16 @@
 layout: default
 title: संस्कृतामृतपाठमाला
 permalink: /
+hide-title: true
 ---
 
 <section class="home-welcome">
-  <h1>संस्कृतामृतपाठमाला</h1>
+ <div class="home-logo">
+<img src="{{ '/assets/images/logo/samskritaamritam-logo.png' | relative_url }}"
+       alt="संस्कृतामृतम्">
+  </div> 
 
+<!--
   <div class="home-welcome-text">
     <p>श्रीगुरुभ्यो नमः ।<br>
     नमो नमः ।</p>
@@ -16,7 +21,8 @@ permalink: /
     यथाकक्षं प्रविश्य स्वाध्ययनार्थं तस्य सदुपयोगं कुर्वन्तु इति प्रार्थना ।</p>
 
     <p class="home-jaya">जयतु संस्कृतम् ।</p>
-  </div>
+  </div> 
+  -->
 </section>
 
 <section class="home-section">
