@@ -641,3 +641,15 @@ details[open] > summary.book-summary::after {
         grid-template-columns: minmax(0, 320px);
     }
 }
+
+.home-logo {
+    display: flex;
+    justify-content: center;
+    margin: 1rem auto 1.75rem;
+}
+
+.home-logo img {
+    width: 200px;
+    max-width: 45vw;
+    height: auto;
+}
