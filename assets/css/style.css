@@ -655,8 +655,9 @@ details[open] > summary.book-summary::after {
 }
 
 .class-hero.home-hero {
-    background: #67117a
-    padding: 12px 1rem;
+    background: #8a145f !important;
+    min-height: 0;
+    padding: 14px 1rem;
 }
 
 .class-hero-logo {
