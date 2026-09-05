@@ -2,6 +2,7 @@
 layout: default
 title: शनिवासरस्य वर्गः
 subtitle: सायं नववादने
+permalink: /saturday-9pm/
 ---
 
 <div class="class-layout">

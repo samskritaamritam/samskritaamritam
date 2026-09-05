@@ -27,7 +27,7 @@ home_logo: true
   <div class="home-feature-grid">
 
     <a class="home-card home-feature-card"
-       href="{{ '/saturday-7am.html' | relative_url }}">
+       href="{{ '/saturday-7am/' | relative_url }}">
       <img src="{{ '/assets/images/classes/sambhAShanam.png' | relative_url }}"
            alt="शनिवासरस्य सम्भाषणवर्गः">
       <div class="home-card-body">
@@ -39,7 +39,7 @@ home_logo: true
     </a>
 
     <a class="home-card home-feature-card"
-       href="{{ '/saturday-9pm.html' | relative_url }}">
+       href="{{ '/saturday-9pm/' | relative_url }}">
       <img src="{{ '/assets/images/classes/sambhAShanam.png' | relative_url }}"
            alt="शनिवासरस्य सम्भाषणवर्गः">
       <div class="home-card-body">
@@ -51,7 +51,7 @@ home_logo: true
     </a>
 
     <a class="home-card home-feature-card"
-       href="{{ '/sunday-classes.html' | relative*url }}">
+       href="{{ '/sunday-classes/' | relative*url }}">
       <img src="{{ '/assets/images/classes/gItAyAH-bhASHA-1.jpg' | relative*url }}"
            alt="गीतायाः भाषा">
       <div class="home-card-body">
@@ -72,7 +72,7 @@ home_logo: true
   <h2>भगवद्गीतापारायणम्</h2>
 
   <div class="home-feature-row">
-    <a class="home-card home-feature-card" href="{{ '/gita-chanting.html' | relative_url }}">
+    <a class="home-card home-feature-card" href="{{ '/gita-chanting/' | relative_url }}">
       <img src="{{ '/assets/images/gita/gita-generic.png' | relative_url }}"
            alt="भगवद्गीतापारायणम्">
       <div class="home-card-body">

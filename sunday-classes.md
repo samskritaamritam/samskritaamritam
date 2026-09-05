@@ -2,6 +2,7 @@
 layout: default
 title: रविवासरस्य वर्गौ
 subtitle: पूर्वाह्ने दशवादने, सायं नववादने च
+permalink: /sunday-classes/
 ---
 
 <div class="class-layout">
