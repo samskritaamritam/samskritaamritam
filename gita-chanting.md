@@ -2,6 +2,7 @@
 layout: default
 title: भगवद्गीतापारायणम्
 subtitle: गीताध्यानम् एवं अष्टादश अध्यायाः
+permalink: /gita-chanting/
 ---
 
 <section class="gita-index">
