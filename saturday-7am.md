@@ -1,4 +1,4 @@
-    ---
+---
 layout: default
 title: शनिवासरस्य वर्गः
 subtitle: प्रातः सप्तवादने
@@ -18,9 +18,9 @@ permalink: /saturday-7am/
   <span class="book-title">सम्भाषणवर्गः</span>
 </summary>
 
-[▶ नवीनतमा कक्षा](#class-3)
+[▶ नवीनतमा कक्षा](#class-04)
 
-<a id="class-1"></a>
+<a id="class-01"></a>
 ## Class-01 (15-08-2026)
 
 - Topics: bhavataH nama kim, bhavatyAh nama kim, mama nama, eShaH, saH, akSharANi
@@ -31,7 +31,7 @@ permalink: /saturday-7am/
 
 ---
 
-<a id="class-2"></a>
+<a id="class-02"></a>
 ## Class-02 (22-08-2026)
 
 - Topics: saH, sA, tat, eShaH, eShA, etat, akSharANi
@@ -41,13 +41,23 @@ permalink: /saturday-7am/
 
 ---
 
-<a id="class-3"></a>
+<a id="class-03"></a>
 ## Class-03 (29-08-2026)
 
 - Topics: va, aam, na, akSharANi
 - **Video:** [Video](https://drive.google.com/file/d/1To_qtt9-cx31fBDCkZw05Oty0dBn47ge/view?usp=drive_link)
 - **PPT:** [PPT](https://drive.google.com/file/d/12Kb-NLE1LNswpjoBfKHgNeWgC7J5LvdM/view?usp=drive_link)
 - **Topic-videos:** [va-aam-na](https://drive.google.com/file/d/1Gkb8pdONJniE1N0Ao58pC7k9tBD4EbKO/view?usp=drive_link) 
+
+---
+
+<a id="class-4"></a>
+## Class-04 (05-09-2026)
+
+- Topics: asti, nasti, kutra, atra, tatra, anyatra, sarvatra, ekatra
+- **Video:** [Video](https://drive.google.com/file/d/1X2TeZEU97Nst0ubiKyyOE9G1_WJgTwY3/view?usp=drive_link)
+- **PPT:** [PPT](https://drive.google.com/file/d/1XhEr5dtn7XohaMLRhcYkkOQgKhzjNcgA/view?usp=drive_link)
+- **Topic-videos:** [asti-nasti](https://drive.google.com/file/d/1srpv7-druenok50l863ORS3i6JpSi-vT/view?usp=drive_link), [kutra-atra-tatra-anyatra-sarvatra-ekatra](https://drive.google.com/file/d/15DppwnFTZjccxd-hhF05wiV1cplG7JXt/view?usp=drive_link) 
 
 ---
 

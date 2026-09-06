@@ -51,8 +51,8 @@ home_logo: true
     </a>
 
     <a class="home-card home-feature-card"
-       href="{{ '/sunday-classes/' | relative*url }}">
-      <img src="{{ '/assets/images/classes/gItAyAH-bhASHA-1.jpg' | relative*url }}"
+       href="{{ '/sunday-classes/' | relative_url }}">
+      <img src="{{ '/assets/images/classes/gItAyAH-bhASHA-1.jpg' | relative_url }}"
            alt="गीतायाः भाषा">
       <div class="home-card-body">
         <div class="home-card-title">
