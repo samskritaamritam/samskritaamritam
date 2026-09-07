@@ -12,10 +12,10 @@ permalink: /gita-chapter-01/
 
 <nav class="gita-section-nav" aria-label="श्लोकविभागाः">
   <a href="#verses-1-3">१–३</a>
-  <a href="#verses-4-8">१–३</a>
-  <a href="#verses-9-13">१–३</a>
-  <a href="#verses-14-18">१–३</a>
-  <a href="#verses-19-23">१–३</a>
+  <a href="#verses-4-8">४–८</a>
+  <a href="#verses-9-13">९–१३</a>
+  <a href="#verses-14-18">१४–१८</a>
+  <a href="#verses-19-23">१९–२३</a>
 </nav>
 
 <div class="gita-chapter-heading">
