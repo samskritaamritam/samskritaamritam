@@ -1,6 +1,6 @@
 ---
 layout: default
-title: भगवद्गीता — प्रथमोऽध्यायः
+title: भगवद्गीता — द्वितीयोऽध्यायः
 permalink: /gita-chapter-02/
 ---
 
