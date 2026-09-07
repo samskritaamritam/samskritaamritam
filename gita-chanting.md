@@ -24,7 +24,7 @@ permalink: /gita-chanting/
 <div class="gita-grid">
 
 
-<a class="gita-card active" href="{{ '/gita-chapter-1/' | relative_url }}">
+<a class="gita-card active" href="{{ '/gita-chapter-01/' | relative_url }}">
 <img src="{{ '/assets/images/gita/viShada-yogaH.png' | relative_url }}" alt="अर्जुनविषादयोगः">
 <div class="gita-card-body">
   <div class="gita-card-number">अध्यायः १</div>
@@ -33,7 +33,7 @@ permalink: /gita-chanting/
 </div>
 </a>
 
-<div class="gita-card current">
+<a class="gita-card active" href="{{ '/gita-chapter-02/' | relative_url }}">
 <img src="{{ '/assets/images/gita/sankhya-yogaH.png' | relative_url }}" alt="साङ्ख्ययोगः">
 <div class="gita-card-body">
   <div class="gita-card-number">अध्यायः २</div>

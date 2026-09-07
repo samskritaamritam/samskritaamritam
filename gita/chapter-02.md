@@ -1,7 +1,7 @@
 ---
 layout: default
 title: भगवद्गीता — प्रथमोऽध्यायः
-permalink: /gita-chapter-2/
+permalink: /gita-chapter-02/
 ---
 
 <div class="gita-chapter-stamp">
