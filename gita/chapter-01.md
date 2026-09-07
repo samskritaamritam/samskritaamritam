@@ -8,14 +8,22 @@ permalink: /gita-chapter-01/
        alt="अर्जुनविषादयोगः">
 </div>
 
-<div class="gita-chapter">
+<div class="gita-chapter" id="chapter-top">
+
+<nav class="gita-section-nav" aria-label="श्लोकविभागाः">
+  <a href="#verses-1-3">१–३</a>
+  <a href="#verses-4-8">१–३</a>
+  <a href="#verses-9-13">१–३</a>
+  <a href="#verses-14-18">१–३</a>
+  <a href="#verses-19-23">१–३</a>
+</nav>
 
 <div class="gita-chapter-heading">
   <div class="gita-invocation">ॐ श्रीपरमात्मने नमः</div>
   <h1>अथ प्रथमोऽध्यायः</h1>
 </div>
 
-<section class="gita-passage">
+<section class="gita-passage" id="verses-1-3">
   <h2>प्रथमोऽध्यायः १-३</h2>
 
   <div class="gita-speaker">धृतराष्ट्र उवाच</div>
@@ -42,7 +50,7 @@ permalink: /gita-chapter-01/
   </div>
 </section>
 
-<section class="gita-passage">
+<section class="gita-passage" id="verses-4-8">
   <h2>प्रथमोऽध्यायः ४-८</h2>
 
   <div class="gita-verse">
@@ -75,7 +83,7 @@ permalink: /gita-chapter-01/
   </div>
 </section>
 
-<section class="gita-passage">
+<section class="gita-passage" id="verses-9-13">
   <h2>प्रथमोऽध्यायः ९-१३</h2>
 
   <div class="gita-verse">
@@ -108,7 +116,7 @@ permalink: /gita-chapter-01/
   </div>
 </section>
 
-<section class="gita-passage">
+<section class="gita-passage" id="verses-14-18">
   <h2>प्रथमोऽध्यायः १४-१८</h2>
 
   <div class="gita-verse">
@@ -141,7 +149,7 @@ permalink: /gita-chapter-01/
   </div>
 </section>
 
-<section class="gita-passage">
+<section class="gita-passage" id="verses-19-23">
   <h2>प्रथमोऽध्यायः १९-२३</h2>
 
   <div class="gita-verse">

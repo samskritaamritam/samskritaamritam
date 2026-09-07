@@ -9,14 +9,18 @@ permalink: /gita-chapter-02/
        alt="साङ्ख्ययोगः">
 </div>
 
-<div class="gita-chapter">
+<div class="gita-chapter" id="chapter-top">
+
+<nav class="gita-section-nav" aria-label="श्लोकविभागाः">
+  <a href="#verses-1-4">१–४</a>
+</nav>
 
    <div class="gita-chapter-heading">
      <div class="gita-invocation">ॐ श्रीपरमात्मने नमः</div>
      <h1>अथ द्वितीयोऽध्यायः</h1>
    </div>
 
-   <section class="gita-passage">
+   <section class="gita-passage" id="verses-1-4">
      <h2>द्वितीयोऽध्यायः १-४</h2>
 
      <div class="gita-speaker">सञ्जय उवाच</div>
