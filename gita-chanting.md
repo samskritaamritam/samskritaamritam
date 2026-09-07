@@ -40,7 +40,7 @@ permalink: /gita-chanting/
   <div class="gita-card-title">साङ्ख्ययोगः</div>
   <div class="gita-card-status">प्रचलति</div>
 </div>
-</div>
+</a>
 
 <div class="gita-card future">
 <img src="{{ '/assets/images/gita/gita-generic.png' | relative_url }}" alt="कर्मयोगः">
