@@ -47,7 +47,7 @@ permalink: /gita-chapter-2/
 
      <div class="gita-audio">
         <audio controls preload="none">
-           <source src="https://audio.samskritaamritam.co.in/gita/02/Ch-02-01-04.mp3"
+           <source src="https://audio.samskritaamritam.co.in/gita/Ch-02/Ch-02-01-04.mp3"
                   type="audio/mpeg">
           Your browser does not support the audio element.
         </audio>
