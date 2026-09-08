@@ -237,6 +237,26 @@ details[open] > summary.book-summary::after {
 .site-links a:hover {
     text-decoration: underline;
 }
+
+.nav-dropdown-menu {
+    display: none;
+    position: absolute;
+    top: calc(100% + 0.4rem);
+    left: 0;
+
+    min-width: 190px;
+    max-height: 420px;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    padding: 0.35rem 0;
+    z-index: 1000;
+}
+
+
 /* Bhagavad Gita chapter index */
 
 .gita-index {
