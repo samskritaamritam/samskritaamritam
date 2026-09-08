@@ -4,13 +4,10 @@ title: भगवद्गीता — प्रथमोऽध्यायः
 permalink: /gita-chapter-01/
 ---
 
-
 <div class="gita-chapter-stamp">
   <img src="{{ '/assets/images/gita/viShada-yogaH.png' | relative_url }}"
        alt="अर्जुनविषादयोगः">
 </div>
-
-<div class="gita-chapter" id="chapter-top">
 
 <div class="gita-chapter-heading">
   <div class="gita-invocation">ॐ श्रीपरमात्मने नमः</div>
@@ -220,7 +217,6 @@ permalink: /gita-chapter-01/
 </div>
 
 </section>
-
 
 <section class="gita-passage" id="verses-24-27">
 
