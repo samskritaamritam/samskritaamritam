@@ -22,5 +22,31 @@
             {{ content }}
         </main>
 
+        <script>
+         document.addEventListener("DOMContentLoaded", function () {
+             const dropdowns = document.querySelectorAll(".nav-dropdown");
+
+             dropdowns.forEach(function (dropdown) {
+                 const button = dropdown.querySelector(".nav-dropdown-button");
+                 const menu = dropdown.querySelector(".nav-dropdown-menu");
+
+                 button.addEventListener("click", function (event) {
+                     event.stopPropagation();
+
+                     const isOpen = menu.classList.toggle("open");
+                     button.setAttribute("aria-expanded", isOpen);
+                 });
+             });
+
+             document.addEventListener("click", function () {
+                 document.querySelectorAll(".nav-dropdown-menu.open").forEach(function (menu) {
+                     menu.classList.remove("open");
+
+                     const button = menu.parentElement.querySelector(".nav-dropdown-button");
+                     button.setAttribute("aria-expanded", "false");
+                 });
+             });
+         });
+        </script>
     </body>
 </html>

@@ -256,6 +256,9 @@ details[open] > summary.book-summary::after {
     z-index: 1000;
 }
 
+.nav-dropdown-menu.open {
+    display: block;
+}
 
 /* Bhagavad Gita chapter index */
 
