@@ -544,6 +544,71 @@ details[open] > summary.book-summary::after {
     background: #eaeaea;
 }
 
+/* ===== Gita Layout ===== */
+.gita-layout {
+    display: grid;
+    grid-template-columns: minmax(0, 760px) 150px;
+    gap: 1.5rem;
+    justify-content: center;
+    align-items: start;
+}
+
+.gita-sidebar {
+    position: sticky;
+    top: 1rem;
+}
+
+.gita-section-box {
+    background: #f5f5f5;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    padding: 0.8rem;
+}
+
+.gita-section-title {
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 0.6rem;
+}
+
+.gita-section-box a {
+    display: block;
+    padding: 0.25rem 0.4rem;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.gita-section-box a:hover {
+    background: #e8e8e8;
+}
+
+@media (max-width: 800px) {
+    .gita-layout {
+        display: block;
+    }
+
+    .gita-sidebar {
+        position: static;
+        margin-bottom: 1rem;
+    }
+
+    .gita-section-box {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 0.35rem;
+    }
+
+    .gita-section-title {
+        width: 100%;
+    }
+
+    .gita-section-box a {
+        display: inline-block;
+    }
+}
+
 /* ===== Home page ===== */
 
 .home-welcome {
