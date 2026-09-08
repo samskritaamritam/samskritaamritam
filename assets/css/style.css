@@ -745,13 +745,11 @@ details[open] > summary.book-summary::after {
 
 .class-hero.home-hero {
     background: #5c147a !important;
-    min-height: 0;
-    padding: 14px 1rem;
 }
 
 .class-hero-logo {
     display: block;
-    width: 200px;
+    width: 250px;
     height: auto;
     margin: 0 auto;
 }
