@@ -5,10 +5,10 @@ permalink: /gita-chapter-01/
 ---
 
 <div class="gita-layout">
-   <main class='gita-main>
+   <main class='gita-main">
 
       <div class="gita-chapter-stamp">
-        <img src="{{ '/assets/images/gita/viShada-yogaH.png' | relative_url }}"$
+        <img src="{{ '/assets/images/gita/viShada-yogaH.png' | relative_url }}"
              alt="अर्जुनविषादयोगः">
       </div>
 
@@ -43,7 +43,7 @@ permalink: /gita-chapter-01/
 
            <div class="gita-audio">
               <audio controls preload="none">
-                 <source src="https://audio.samskritaamritam.co.in/gita/Ch-02/Ch-01-1-3.mp3"
+                 <source src="https://audio.samskritaamritam.co.in/gita/Ch-01/Ch-01-1-3.mp3"
                         type="audio/mpeg">
                 Your browser does not support the audio element.
               </audio>
@@ -80,7 +80,7 @@ permalink: /gita-chapter-01/
 
            <div class="gita-audio">
               <audio controls preload="none">
-                 <source src="https://audio.samskritaamritam.co.in/gita/Ch-02/Ch-01-4-8.mp3"
+                 <source src="https://audio.samskritaamritam.co.in/gita/Ch-01/Ch-01-4-8.mp3"
                         type="audio/mpeg">
                 Your browser does not support the audio element.
               </audio>
@@ -117,7 +117,7 @@ permalink: /gita-chapter-01/
 
            <div class="gita-audio">
               <audio controls preload="none">
-                 <source src="https://audio.samskritaamritam.co.in/gita/Ch-02/Ch-01-9-13.mp3"
+                 <source src="https://audio.samskritaamritam.co.in/gita/Ch-01/Ch-01-9-13.mp3"
                         type="audio/mpeg">
                 Your browser does not support the audio element.
               </audio>
@@ -154,7 +154,7 @@ permalink: /gita-chapter-01/
 
            <div class="gita-audio">
               <audio controls preload="none">
-                 <source src="https://audio.samskritaamritam.co.in/gita/Ch-02/Ch-01-14-18.mp3"
+                 <source src="https://audio.samskritaamritam.co.in/gita/Ch-01/Ch-01-14-18.mp3"
                         type="audio/mpeg">
                 Your browser does not support the audio element.
               </audio>
@@ -196,7 +196,7 @@ permalink: /gita-chapter-01/
 
            <div class="gita-audio">
               <audio controls preload="none">
-                 <source src="https://audio.samskritaamritam.co.in/gita/Ch-02/Ch-01-19-23.mp3"
+                 <source src="https://audio.samskritaamritam.co.in/gita/Ch-01/Ch-01-19-23.mp3"
                         type="audio/mpeg">
                 Your browser does not support the audio element.
               </audio>
@@ -229,7 +229,7 @@ permalink: /gita-chapter-01/
 
            <div class="gita-audio">
               <audio controls preload="none">
-                 <source src="https://audio.samskritaamritam.co.in/gita/Ch-02/Ch-01-24-27.mp3"
+                 <source src="https://audio.samskritaamritam.co.in/gita/Ch-01/Ch-01-24-27.mp3"
                         type="audio/mpeg">
                 Your browser does not support the audio element.
               </audio>
@@ -246,6 +246,7 @@ permalink: /gita-chapter-01/
            <a href="#verses-9-13">९–१३</a>
            <a href="#verses-14-18">१४–१८</a>
            <a href="#verses-19-23">१९–२३</a>
+           <a href="#verses-19-23">१४–२७</a>
        </div>
    </aside>
 </div>    
