@@ -243,7 +243,7 @@ details[open] > summary.book-summary::after {
 }
 
 .nav-dropdown-menu {
-    display: none;
+    display: block;
     position: absolute;
     top: calc(100% + 0.4rem);
     left: 0;
@@ -253,15 +253,23 @@ details[open] > summary.book-summary::after {
     overflow-y: auto;
     overscroll-behavior: contain;
 
+    color: #333,
     background: white;
+    text-decoration: none;
     border: 1px solid #ddd;
     border-radius: 6px;
-    padding: 0.35rem 0;
+    padding: 0.5rem 0.8rem;
+    white-space: nowrap;
     z-index: 1000;
 }
 
 .nav-dropdown-menu.open {
     display: block;
+}
+
+.nav-dropdown-menu a_hover{
+    background: #f3f3f3;
+    color: #333;
 }
 
 .site-nav {
