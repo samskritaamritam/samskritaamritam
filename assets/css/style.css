@@ -802,3 +802,200 @@ details[open] > summary.book-summary::after {
     height: auto;
     margin: 0 auto;
 }
+
+
+/* =========================================================
+   Samskritaamritam — Maroon / Gold / Ivory Theme
+   ========================================================= */
+
+:root {
+    --maroon: #6B1F2A;
+    --maroon-dark: #4A171D;
+    --gold: #D4AF67;
+    --ivory: #FAF8F2;
+    --cream: #F3F0E8;
+    --cream-light: #F8F5EE;
+    --text: #292724;
+    --border: #DDD8CC;
+}
+
+/* ----- Overall page ----- */
+
+body {
+    background: var(--ivory);
+    color: var(--text);
+}
+
+/* ----- Navigation ----- */
+
+.site-nav {
+    background: var(--maroon-dark);
+}
+
+.site-name {
+    color: var(--gold);
+}
+
+.site-links a {
+    color: var(--ivory);
+}
+
+.site-links a:hover {
+    color: var(--gold);
+}
+
+/* ----- Navigation dropdown ----- */
+
+.nav-dropdown-button {
+    color: var(--ivory);
+}
+
+.nav-dropdown-menu {
+    background: var(--ivory);
+    border-color: var(--gold);
+}
+
+.nav-dropdown-menu a {
+    color: var(--maroon);
+    background: var(--ivory);
+}
+
+.nav-dropdown-menu a:hover {
+    color: var(--maroon-dark);
+    background: var(--cream);
+}
+
+/* ----- Internal page hero ----- */
+
+.class-hero {
+    background:
+        linear-gradient(
+            120deg,
+            var(--maroon-dark),
+            var(--maroon)
+        );
+}
+
+.class-hero-title {
+    color: var(--ivory);
+}
+
+.class-hero-subtitle {
+    color: var(--gold);
+}
+
+/* Homepage hero — temporary.
+   We will redesign the homepage separately. */
+
+.class-hero.home-hero {
+    background:
+        linear-gradient(
+            120deg,
+            var(--maroon-dark),
+            var(--maroon)
+        ) !important;
+}
+
+/* ----- Standard details / expandable boxes ----- */
+
+summary {
+    background: var(--cream-light);
+    border-color: var(--border);
+}
+
+details hr {
+    border-top-color: var(--border);
+}
+
+/* ----- Book / class boxes ----- */
+
+.book-section {
+    background: var(--ivory);
+    border-color: var(--border);
+}
+
+summary.book-summary {
+    background: var(--cream-light);
+}
+
+.book-title {
+    border-bottom-color: var(--gold);
+}
+
+.book-section[open] > summary.book-summary {
+    border-bottom-color: var(--border);
+}
+
+/* ----- Bhagavad Gita index cards ----- */
+
+.gita-dhyana-card,
+.gita-card {
+    background: var(--ivory);
+    border-color: var(--border);
+}
+
+.gita-card.current {
+    border-color: var(--gold);
+}
+
+/* ----- Gita Dhyanam ----- */
+
+.gita-sloka {
+    background: var(--cream-light);
+    border-color: var(--border);
+}
+
+.gita-sloka h2 {
+    border-bottom-color: var(--gold);
+}
+
+/* ----- Gita chapter passages ----- */
+
+.gita-passage {
+    background: var(--cream-light);
+    border-color: var(--border);
+}
+
+.gita-audio a {
+    color: var(--maroon);
+}
+
+/* ----- Gita section navigation ----- */
+
+.gita-section-nav a {
+    background: var(--cream-light);
+    border-color: var(--border);
+    color: var(--maroon);
+}
+
+.gita-section-nav a:hover {
+    background: var(--cream);
+}
+
+/* ----- Gita floating sidebar ----- */
+
+.gita-section-box {
+    background: var(--cream-light);
+    border-color: var(--border);
+}
+
+.gita-section-box a {
+    color: var(--maroon);
+}
+
+.gita-section-box a:hover {
+    background: var(--cream);
+}
+
+/* ----- Homepage existing cards ----- */
+
+.home-card {
+    background: var(--cream-light);
+    border-color: var(--border);
+}
+
+.home-card:hover,
+.gita-card.active:hover,
+.gita-dhyana-card:hover {
+    box-shadow: 0 5px 16px rgba(74, 23, 29, 0.14);
+}
