@@ -238,6 +238,10 @@ details[open] > summary.book-summary::after {
     text-decoration: underline;
 }
 
+.nav-dropdown {
+    position: relative;
+}
+
 .nav-dropdown-menu {
     display: none;
     position: absolute;
@@ -258,6 +262,14 @@ details[open] > summary.book-summary::after {
 
 .nav-dropdown-menu.open {
     display: block;
+}
+
+.site-nav {
+    overflow: visible;
+}
+
+.site-links {
+    overflow: visible;
 }
 
 /* Bhagavad Gita chapter index */
