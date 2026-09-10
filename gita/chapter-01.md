@@ -254,6 +254,172 @@ permalink: /gita-chapter-01/
 
 </section>
 
+</section>
+
+<section class="gita-passage" id="verses-28-32">
+
+<h2>प्रथमोऽध्यायः २८-३२</h2>
+
+<div class="gita-speaker">अर्जुन उवाच</div>
+
+<div class="gita-verse">
+  कृपया परयाऽऽविष्टो(:) विषीदन्निदमब्रवीत्। <br>
+  दृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम्।। (१-२८)
+</div>
+
+<div class="gita-verse">
+  सीदन्ति मम गात्राणि मुखं च परिशुष्यति।<br>
+  वेपथुश्च शरीरे मे रोमहर्षश्च जायते।। (१-२९)
+</div>
+
+<div class="gita-verse">
+  गाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते।<br>
+  न च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः।। (१-३०)
+</div>
+
+<div class="gita-verse">
+  निमित्तानि च पश्यामि विपरीतानि केशव।<br>
+  न च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे।। (१-३१)
+</div>
+
+<div class="gita-verse">
+  न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च।<br>
+  किं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा।। (१-३२)
+</div>
+
+<div class="gita-audio">
+  <audio controls preload="none">
+    <source src="https://audio.samskritaamritam.co.in/gita/Ch-01/Ch-01-29-32.mp3"
+            type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</div>
+
+</section>
+
+<section class="gita-passage" id="verses-33-37">
+
+<h2>प्रथमोऽध्यायः ३३-३७</h2>
+
+<div class="gita-verse">
+  येषामर्थे काङ्क्षितं नो(:) राज्यं भोगाः सुखानि च। <br>
+  त इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च।। (१-३३)
+</div>
+
+<div class="gita-verse">
+  आचार्याः(≍) पितरः(≍) पुत्राः तथैव च पितामहाः। <br>
+  मातुलाः(श्) श्वशुराः(≍) पौत्राः श्यालाः(स्) सम्बन्धिनस्तथा।। (१-३४)
+</div>
+
+<div class="gita-verse">
+  एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन।<br>
+  अपि त्रैलोक्यराज्यस्य हेतोः(≍) किं(न्) नु महीकृते।।(१-३५)
+</div>
+
+<div class="gita-verse">
+  निहत्य धार्तराष्ट्रान्नः का प्रीतिः(स्) स्याज्जनार्दन।<br>
+  पापमेवाश्रयेदस्मान् हत्वैतानाततायिनः।। (१-३६)
+</div>
+
+<div class="gita-verse">
+  तस्मान्नार्हा वयं हन्तुं(म्) धार्तराष्ट्रान्स्वबान्धवान्।<br>
+  स्वजनं हि कथं हत्वा सुखिनः स्याम माधव।। (१-३७)
+</div>
+
+<div class="gita-audio">
+  <audio controls preload="none">
+    <source src="https://audio.samskritaamritam.co.in/gita/Ch-01/Ch-01-33-37.mp3"
+            type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</div>
+
+</section>
+
+</section>
+
+<section class="gita-passage" id="verses-38-41">
+
+<h2>प्रथमोऽध्यायः ३८-४१</h2>
+
+<div class="gita-verse">
+  यद्यप्येते न पश्यन्ति लोभोपहतचेतसः। <br>
+  कुलक्षयकृतं(न्) दोषं(म्) मित्रद्रोहे च पातकम्।। (१-३८)
+</div>
+
+<div class="gita-verse">
+  कथं न ज्ञेयमस्माभिः पापादस्मान्निवर्तितुम् । <br>
+  कुलक्षयकृतं(न्) दोषं(म्) प्रपश्यद्भिर्जनार्दन ।। (१-३९)
+</div>
+
+<div class="gita-verse">
+  कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः।<br>
+  धर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत।। (१-४०)
+</div>
+
+<div class="gita-verse">
+  अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः। <br>
+  स्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्करः।। (१-४१)
+</div>
+
+<div class="gita-audio">
+  <audio controls preload="none">
+    <source src="https://audio.samskritaamritam.co.in/gita/Ch-01/Ch-01-38-41.mp3"
+            type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</div>
+
+</section>
+
+</section>
+
+<section class="gita-passage" id="verses-42-47">
+
+<h2>प्रथमोऽध्यायः ४२-४७</h2>
+
+<div class="gita-verse">
+  सङ्करो नरकायैव कुलघ्नानां(ङ्) कुलस्य च । <br>
+  पतन्ति पितरो ह्येषां(म्) लुप्तपिण्डोदकक्रियाः ।। (१-४२)
+</div>
+
+<div class="gita-verse">
+  दोषैरेतैः कुलघ्नानां(म्) वर्णसङ्करकारकैः। <br>
+  उत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः।। (१-४३)
+</div>
+
+<div class="gita-verse">
+  उत्सन्नकुलधर्माणां(म्) मनुष्याणां(ञ्) जनार्दन। <br>
+  नरकेऽनियतं वासो(:) भवतीत्यनुशुश्रुम।। (१-४४)
+</div>
+
+<div class="gita-verse">
+  अहो बत महत्पापं(म्) कर्तुं(वँ) व्यवसिता वयम् । <br>
+  यद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः ।। (१-४५)
+</div>
+
+<div class="gita-verse">
+  यदि मामप्रतीकारम् अशस्त्रं शस्त्रपाणयः । <br>
+  धार्तराष्ट्रा रणे हन्युः तन्मे क्षेमतरं भवेत् ।। (१-४६)
+</div>
+
+<div class="gita-speaker">सञ्जय  उवाच</div>
+
+<div class="gita-verse">
+  एवमुक्त्वाऽर्जुनः(स्) संख्ये रथोपस्थ उपाविशत् । <br>
+  विसृज्य सशरं(ञ्) चापं(म्) शोकसंविग्नमानसः ।। (१-४७)
+</div>
+
+<div class="gita-audio">
+  <audio controls preload="none">
+    <source src="https://audio.samskritaamritam.co.in/gita/Ch-01/Ch-01-42-47.mp3"
+            type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</div>
+
+</section>
+
 </div>
 
 </main>
@@ -271,6 +437,10 @@ permalink: /gita-chapter-01/
 <a href="#verses-14-18">१४–१८</a>
 <a href="#verses-19-23">१९–२३</a>
 <a href="#verses-24-27">२४–२७</a>
+<a href="#verses-28-32">२८–३२</a>
+<a href="#verses-33-37">३३–३७</a>
+<a href="#verses-38-41">३८–४१</a>
+<a href="#verses-42-47">४२–४७</a>
 
 </div>
 
