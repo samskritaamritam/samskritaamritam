@@ -254,8 +254,6 @@ permalink: /gita-chapter-01/
 
 </section>
 
-</section>
-
 <section class="gita-passage" id="verses-28-32">
 
 <h2>प्रथमोऽध्यायः २८-३२</h2>
@@ -336,8 +334,6 @@ permalink: /gita-chapter-01/
 
 </section>
 
-</section>
-
 <section class="gita-passage" id="verses-38-41">
 
 <h2>प्रथमोऽध्यायः ३८-४१</h2>
@@ -369,8 +365,6 @@ permalink: /gita-chapter-01/
     Your browser does not support the audio element.
   </audio>
 </div>
-
-</section>
 
 </section>
 
