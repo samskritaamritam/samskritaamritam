@@ -57,7 +57,17 @@ permalink: /saturday-7am/
 - Topics: asti, nasti, kutra, atra, tatra, anyatra, sarvatra, ekatra
 - **Video:** [Video](https://drive.google.com/file/d/1X2TeZEU97Nst0ubiKyyOE9G1_WJgTwY3/view?usp=drive_link)
 - **PPT:** [PPT](https://drive.google.com/file/d/1XhEr5dtn7XohaMLRhcYkkOQgKhzjNcgA/view?usp=drive_link)
-- **Topic-videos:** [asti-nasti](https://drive.google.com/file/d/1srpv7-druenok50l863ORS3i6JpSi-vT/view?usp=drive_link), [kutra-atra-tatra-anyatra-sarvatra-ekatra](https://drive.google.com/file/d/15DppwnFTZjccxd-hhF05wiV1cplG7JXt/view?usp=drive_link) 
+- **Topic-videos:** [asti-nasti](https://drive.google.com/file/d/1srpv7-druenok50l863ORS3i6JpSi-vT/view?usp=drive_link), [kutra-atra-tatra-anyatra-sarvatra-ekatra](https://drive.google.com/file/d/15DppwnFTZjccxd-hhF05wiV1cplG7JXt/view?usp=drive_link)
+
+---
+
+<a id="class-5"></a>
+## Class-05 (12-09-2026)
+
+- Topics: bhavAn kaH, bhavatI kA, aham, adhikaraNam
+- **Video:** [Video](https://drive.google.com/file/d/1Lj168ce3ShYf1RTvwRnnBotCRX4kJfDm/view?usp=drive_link)
+- **PPT:** [PPT](https://drive.google.com/file/d/10I2stBF-26kCMuwziUE-v_cBhKSCsNPn/view?usp=drive_link)
+- **Topic-videos:** [bhavAn-kaH, bhavatI-kA](https://drive.google.com/file/d/1ocLdFGh2O6gNeBG2mIDMHZjqORKM-K5p/view?usp=drive_link), [adhikaranam](https://drive.google.com/file/d/1OTjSLoC9WFm4iv-ujEvdZe9JafMnkcae/view?usp=drive_link)
 
 ---
 
