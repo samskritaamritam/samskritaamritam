@@ -19,7 +19,7 @@ permalink: /saturday-9pm/
 </summary>
 
 
-[▶ नवीनतमा कक्षा](#class-25)
+[▶ नवीनतमा कक्षा](#class-26)
 
 <a id="class-1"></a>
 ## Class-01 (21-02-2026)
@@ -268,6 +268,16 @@ permalink: /saturday-9pm/
 - **Video:** [Video](https://drive.google.com/file/d/1vTjuzpbMGiEJ3Hk1DGF-ufanGC4GG803/view?usp=drive_link)
 - **PPT:** [PPT](https://drive.google.com/file/d/1NgZalUjDPorkdxvkZuHZJh5j2ekqir_4/view?usp=drive_link)
 - **Topic Videos:** [yada-tada](https://drive.google.com/file/d/1KUvVpC_I3ThCzglYGeqqJgor3TQjBorm/view?usp=drive_link), [sampradAnam](https://drive.google.com/file/d/13VI1D-9LqcGgk3t0WBgmIIVIRQq7YWJ1/view?usp=drive_link)
+
+---
+
+<a id="class-26"></a>
+## Class-26 (12-09-2026)
+
+- Topics: vinA, Arabhya-paryantam
+- **Video:** [Video](https://drive.google.com/file/d/1q0bHJ9m7FjtIV5WE6BEyzju3BAhs6nTX/view?usp=drive_link)
+- **PPT:** [PPT](https://drive.google.com/file/d/1QyT5YyBgD6EBEMdR_78mnbxMwdwuzQKo/view?usp=drive_link)
+  - **Topic Videos:** [Arabhya-paryantam](https://drive.google.com/file/d/12woGIyEZLHPASdRARluqhmfIp74VFAGh/view?usp=drive_link), [vinA]()
 
 ---
 

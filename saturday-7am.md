@@ -18,7 +18,7 @@ permalink: /saturday-7am/
   <span class="book-title">सम्भाषणवर्गः</span>
 </summary>
 
-[▶ नवीनतमा कक्षा](#class-04)
+[▶ नवीनतमा कक्षा](#class-05)
 
 <a id="class-01"></a>
 ## Class-01 (15-08-2026)
@@ -51,7 +51,7 @@ permalink: /saturday-7am/
 
 ---
 
-<a id="class-4"></a>
+<a id="class-04"></a>
 ## Class-04 (05-09-2026)
 
 - Topics: asti, nasti, kutra, atra, tatra, anyatra, sarvatra, ekatra
@@ -61,7 +61,7 @@ permalink: /saturday-7am/
 
 ---
 
-<a id="class-5"></a>
+<a id="class-05"></a>
 ## Class-05 (12-09-2026)
 
 - Topics: bhavAn kaH, bhavatI kA, aham, adhikaraNam
