@@ -1132,14 +1132,38 @@ summary.book-summary {
 
 /* Samskritaamritam — Experimental Homepage */
 
-.exp-home-hero {
+/*.exp-home-hero {
     margin: 0 calc(50% - 50vw) 3rem;
     padding: 4rem 1.5rem 4.25rem;
     background:
         radial-gradient(circle at 50% 20%, rgba(212,175,103,0.13), transparent 35%),
         linear-gradient(135deg, var(--maroon-dark), var(--maroon));
     border-bottom: 1px solid var(--gold);
+}*/
+
+.exp-home-hero {
+    margin: 0 calc(50% - 50vw) 3rem;
+    min-height: 430px;
+    padding: 2rem 1.5rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-image:
+        linear-gradient(
+            rgba(250, 248, 242, 0.08),
+            rgba(250, 248, 242, 0.08)
+        ),
+        url("/assets/images/home/home-hero.png");
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    border-bottom: 1px solid var(--gold);
 }
+
 
 .exp-home-hero-inner {
     max-width: 760px;
@@ -1165,22 +1189,34 @@ summary.book-summary {
 
 .exp-home-hero h1 {
     margin: 0;
-    color: var(--ivory);
+    color: var(--maroon);
     font-size: clamp(2.35rem, 5vw, 3.5rem);
     font-weight: 400;
     line-height: 1.15;
 }
 
-.exp-home-motto {
+/*.exp-home-motto {
     margin-top: 0.6rem;
     color: var(--gold);
     font-size: 1.25rem;
+}*/
+.exp-home-motto {
+    margin-top: 0.6rem;
+    color: #8A5A20;
+    font-size: 1.25rem;
 }
 
-.exp-home-intro {
+/*.exp-home-intro {
     max-width: 620px;
     margin: 1.2rem auto 0;
     color: rgba(250,248,242,0.88);
+    font-size: 1.05rem;
+    line-height: 1.8;
+}*/
+.exp-home-intro {
+    max-width: 620px;
+    margin: 1.2rem auto 0;
+    color: var(--text);
     font-size: 1.05rem;
     line-height: 1.8;
 }
