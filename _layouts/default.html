@@ -103,6 +103,64 @@
             startCarousel();
         });
         </script>
+       document.addEventListener("DOMContentLoaded", function () {
+       const carousel = document.querySelector(".exp-carousel");
+       if (!carousel) return;
+   
+      const slides = carousel.querySelectorAll(".exp-slide");
+      const dots = document.querySelectorAll(".exp-dot");
+      const previous = carousel.querySelector(".exp-prev");
+      const next = carousel.querySelector(".exp-next");
+   
+      let current = 0;
+      let timer;
+   
+      function showSlide(index) {
+          slides[current].classList.remove("active");
+          dots[current].classList.remove("active");
+          current = (index + slides.length) % slides.length;
+          slides[current].classList.add("active");
+          dots[current].classList.add("active");
+      }
+   
+      function startCarousel() {
+          timer = setInterval(function () {
+              showSlide(current + 1);
+          }, 7000);
+      }
+   
+      function restartCarousel() {
+          clearInterval(timer);
+          startCarousel();
+      }
+   
+      next.addEventListener("click", function () {
+          showSlide(current + 1);
+          restartCarousel();
+      });
+   
+      previous.addEventListener("click", function () {
+          showSlide(current - 1);
+          restartCarousel();
+      });
+   
+      dots.forEach(function (dot, index) {
+          dot.addEventListener("click", function () {
+              showSlide(index);
+              restartCarousel();
+          });
+      });
+   
+      carousel.addEventListener("mouseenter", function () {
+          clearInterval(timer);
+      });
+   
+      carousel.addEventListener("mouseleave", function () {
+          restartCarousel();
+      });
+   
+      startCarousel();
+     });
 
     </body>
 </html>
