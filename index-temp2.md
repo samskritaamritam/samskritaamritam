@@ -4,8 +4,8 @@ title: संस्कृतामृतम्
 permalink: /index-temp2/
 home_logo: false
 hide_class_hero: true
+home_special: true
 ---
-
 
 <section class="exp-home-hero">
 <div class="exp-home-hero-inner">

@@ -103,64 +103,65 @@
             startCarousel();
         });
         </script>
-       document.addEventListener("DOMContentLoaded", function () {
-       const carousel = document.querySelector(".exp-carousel");
-       if (!carousel) return;
+        <script>
+           document.addEventListener("DOMContentLoaded", function () {
+           const carousel = document.querySelector(".exp-carousel");
+           if (!carousel) return;
    
-      const slides = carousel.querySelectorAll(".exp-slide");
-      const dots = document.querySelectorAll(".exp-dot");
-      const previous = carousel.querySelector(".exp-prev");
-      const next = carousel.querySelector(".exp-next");
+           const slides = carousel.querySelectorAll(".exp-slide");
+           const dots = document.querySelectorAll(".exp-dot");
+           const previous = carousel.querySelector(".exp-prev");
+           const next = carousel.querySelector(".exp-next");
+     
+           let current = 0;
+           let timer;
    
-      let current = 0;
-      let timer;
+           function showSlide(index) {
+               slides[current].classList.remove("active");
+               dots[current].classList.remove("active");
+               current = (index + slides.length) % slides.length;
+               slides[current].classList.add("active");
+               dots[current].classList.add("active");
+           }
+        
+           function startCarousel() {
+               timer = setInterval(function () {
+                   showSlide(current + 1);
+               }, 7000);
+           }
    
-      function showSlide(index) {
-          slides[current].classList.remove("active");
-          dots[current].classList.remove("active");
-          current = (index + slides.length) % slides.length;
-          slides[current].classList.add("active");
-          dots[current].classList.add("active");
-      }
+           function restartCarousel() {
+               clearInterval(timer);
+               startCarousel();
+           }
    
-      function startCarousel() {
-          timer = setInterval(function () {
-              showSlide(current + 1);
-          }, 7000);
-      }
+           next.addEventListener("click", function () {
+               showSlide(current + 1);
+               restartCarousel();
+           });
+        
+           previous.addEventListener("click", function () {
+               showSlide(current - 1);
+               restartCarousel();
+           });
    
-      function restartCarousel() {
-          clearInterval(timer);
-          startCarousel();
-      }
+           dots.forEach(function (dot, index) {
+               dot.addEventListener("click", function () {
+                   showSlide(index);
+                   restartCarousel();
+               });
+           });
    
-      next.addEventListener("click", function () {
-          showSlide(current + 1);
-          restartCarousel();
-      });
+           carousel.addEventListener("mouseenter", function () {
+               clearInterval(timer);
+           });
    
-      previous.addEventListener("click", function () {
-          showSlide(current - 1);
-          restartCarousel();
-      });
+           carousel.addEventListener("mouseleave", function () {
+               restartCarousel();
+           });
    
-      dots.forEach(function (dot, index) {
-          dot.addEventListener("click", function () {
-              showSlide(index);
-              restartCarousel();
+           startCarousel();
           });
-      });
-   
-      carousel.addEventListener("mouseenter", function () {
-          clearInterval(timer);
-      });
-   
-      carousel.addEventListener("mouseleave", function () {
-          restartCarousel();
-      });
-   
-      startCarousel();
-     });
-
+        </script>
     </body>
 </html>
