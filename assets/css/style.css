@@ -11,6 +11,10 @@ body {
     padding: 1.5rem 1.25rem;
 }
 
+.page.home-page {
+    padding-top: 0;
+}
+
 details {
     margin: 1rem 0;
 }

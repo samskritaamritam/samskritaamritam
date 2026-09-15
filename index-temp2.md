@@ -14,16 +14,12 @@ hide_class_hero: true
      src="{{ '/assets/images/logo/samskritaamritam-logo.png' | relative_url }}"
      alt="">
 
-<div class="exp-home-kicker">Sanskrit learning • study • chanting</div>
 
 <h1>संस्कृतामृतम्</h1>
 
 <div class="exp-home-motto">विद्या अमृताय कल्पते</div>
 
-<p class="exp-home-intro">
-  A space for learning Sanskrit through conversation, texts,
-  Bhagavad Gita, chanting and traditional study.
-</p>
+<div class="exp-home-kicker">Sanskrit learning • study • chanting</div>
 
 </div>
 </section>
