@@ -70,16 +70,16 @@ home_special: true
 
 <section class="exp-home-links">
 
-<a class="exp-home-link-card" href="{{ '//' | relative_url }}">
+<a class="exp-home-link-card" href="{{ '/classes/' | relative_url }}">
   <div class="exp-home-link-label">Classes</div>
   <h2>Learn Sanskrit</h2>
-  <p>Weekly classes with recordings and study material.</p>
+  <p>Current classes, recordings and study material.</p>
 </a>
 
 <a class="exp-home-link-card" href="{{ '/gita-chanting/' | relative_url }}">
   <div class="exp-home-link-label">Bhagavad Gita</div>
   <h2>Study & Chant</h2>
-  <p>Gita Dhyanam, chapter-wise chanting and supporting material.</p>
+  <p>Gita Dhyanam, chapter chanting and supporting material.</p>
 </a>
 
 <div class="exp-home-link-card">
