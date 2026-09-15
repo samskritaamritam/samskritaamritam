@@ -11,8 +11,6 @@ permalink: /resources/
 
 Short topic-wise lessons for learning and revising spoken Sanskrit.
 
-</section>
-
 ---
 
 ## अक्षराणि
