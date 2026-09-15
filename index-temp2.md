@@ -73,7 +73,7 @@ home_special: true
 <a class="exp-home-link-card" href="{{ '/classes/' | relative_url }}">
   <div class="exp-home-link-label">Classes</div>
   <h2>Learn Sanskrit</h2>
-  <p>Current classes, recordings and study material.</p>
+  <p>Weekly classes, recordings and study material.</p>
 </a>
 
 <a class="exp-home-link-card" href="{{ '/gita-chanting/' | relative_url }}">
@@ -82,10 +82,10 @@ home_special: true
   <p>Gita Dhyanam, chapter chanting and supporting material.</p>
 </a>
 
-<div class="exp-home-link-card">
+<a class="exp-home-link-card" href="{{ '/resources/' | relative_url }}">
   <div class="exp-home-link-label">Resources</div>
   <h2>Study Material</h2>
-  <p>Notes, worksheets and supporting resources as they are added.</p>
+  <p>Topic-videos and other useful materials.</p>
 </div>
 
 <div class="exp-home-link-card">

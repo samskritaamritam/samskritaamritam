@@ -277,7 +277,7 @@ permalink: /saturday-9pm/
 - Topics: vinA, Arabhya-paryantam
 - **Video:** [Video](https://drive.google.com/file/d/1q0bHJ9m7FjtIV5WE6BEyzju3BAhs6nTX/view?usp=drive_link)
 - **PPT:** [PPT](https://drive.google.com/file/d/1QyT5YyBgD6EBEMdR_78mnbxMwdwuzQKo/view?usp=drive_link)
-  - **Topic Videos:** [Arabhya-paryantam](https://drive.google.com/file/d/12woGIyEZLHPASdRARluqhmfIp74VFAGh/view?usp=drive_link), [vinA]()
+- **Topic Videos:** [Arabhya-paryantam](https://drive.google.com/file/d/12woGIyEZLHPASdRARluqhmfIp74VFAGh/view?usp=drive_link), [vinA]()
 
 ---
 
