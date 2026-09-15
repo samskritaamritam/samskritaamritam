@@ -5,8 +5,6 @@ subtitle: Resources
 permalink: /resources/
 ---
 
-<section class="resources-intro">
-
 ## सम्भाषणसंस्कृतम्
 
 Short topic-wise lessons for learning and revising spoken Sanskrit.
