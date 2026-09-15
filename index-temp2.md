@@ -32,7 +32,6 @@ hide_class_hero: true
   <img src="{{ '/assets/images/classes/sambhAShanam.png' | relative_url }}"
        alt="सम्भाषणसंस्कृतम्">
   <div class="exp-slide-caption">
-    <div class="exp-slide-eyebrow">Featured</div>
     <h2>सम्भाषणसंस्कृतम्</h2>
     <p>Sanskrit through conversation</p>
   </div>
@@ -42,7 +41,6 @@ hide_class_hero: true
   <img src="{{ '/assets/images/classes/gItAyAH-bhASHA-1.jpg' | relative_url }}"
        alt="गीतायाः भाषा">
   <div class="exp-slide-caption">
-    <div class="exp-slide-eyebrow">Featured</div>
     <h2>गीतायाः भाषा</h2>
     <p>Learning Sanskrit through the Bhagavad Gita</p>
   </div>
@@ -52,7 +50,6 @@ hide_class_hero: true
   <img src="{{ '/assets/images/gita/gita-generic.png' | relative_url }}"
        alt="भगवद्गीतापारायणम्">
   <div class="exp-slide-caption">
-    <div class="exp-slide-eyebrow">Featured</div>
     <h2>भगवद्गीतापारायणम्</h2>
     <p>Chanting the Bhagavad Gita</p>
   </div>

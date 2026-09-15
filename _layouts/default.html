@@ -18,7 +18,7 @@
             {% include class-header.html %}
         </header>
 
-        <main class="page">
+        <main class="page {% if page.home_special %}home-page{% endif %}">
             {{ content }}
         </main>
 

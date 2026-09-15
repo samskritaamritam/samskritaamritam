@@ -1226,7 +1226,7 @@ summary.book-summary {
 }
 
 .exp-carousel-section {
-    max-width: 780px;
+    max-width: 680px;
     margin: 0 auto 3.4rem;
 }
 
@@ -1245,7 +1245,7 @@ summary.book-summary {
 .exp-slide img {
     display: block;
     width: 100%;
-    height: 390px;
+    height: 360px;
     object-fit: contain;
     background: linear-gradient(180deg, #fffdf8, var(--cream-light));
 }
