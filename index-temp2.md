@@ -86,7 +86,7 @@ home_special: true
   <div class="exp-home-link-label">Resources</div>
   <h2>Study Material</h2>
   <p>Topic-videos and other useful materials.</p>
-</div>
+</a>
 
 <div class="exp-home-link-card">
   <div class="exp-home-link-label">About</div>
