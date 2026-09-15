@@ -1173,10 +1173,10 @@ summary.book-summary {
 
 .exp-home-logo {
     display: block;
-    width: 170px;
+    width: 220px;
     max-width: 52vw;
     height: auto;
-    margin: 0 auto 1.25rem;
+    margin: 0 auto 1rem;
 }
 
 .exp-home-kicker {

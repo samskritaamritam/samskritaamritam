@@ -12,7 +12,7 @@ hide_class_hero: true
 
 <img class="exp-home-logo"
      src="{{ '/assets/images/logo/samskritaamritam-logo.png' | relative_url }}"
-     alt="संस्कृतामृतम्">
+     alt="">
 
 <div class="exp-home-kicker">Sanskrit learning • study • chanting</div>
 
