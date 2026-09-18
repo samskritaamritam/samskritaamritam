@@ -88,11 +88,11 @@ home_special: true
   <p>Topic-videos and other useful materials.</p>
 </a>
 
-<div class="exp-home-link-card">
+<a class="exp-home-link-card" href="{{ '/about/' | relative_url }}">
   <div class="exp-home-link-label">About</div>
   <h2>संस्कृतामृतम्</h2>
   <p>About the classes, approach and future programmes.</p>
-</div>
+</a>
 
 </section>
 
