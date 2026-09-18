@@ -856,6 +856,12 @@ body {
 
 .nav-dropdown-button {
     color: var(--ivory);
+    background: transparent;
+    border: none;
+    color: inherit;
+    font: inherit;
+    cursor: pointer;
+    padding: 0;
 }
 
 .nav-dropdown-menu {
