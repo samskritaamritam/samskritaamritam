@@ -1,83 +1,103 @@
 ---
 layout: default
-title: संस्कृतामृतपाठमाला
+title: संस्कृतामृतम्
 permalink: /
-home_logo: true
+home_logo: false
+hide_class_hero: true
+home_special: true
 ---
 
-<section class="home-welcome">
+<section class="exp-home-hero">
+<div class="exp-home-hero-inner">
 
-<!--
-  <div class="home-welcome-text">
-    <p>श्रीगुरुभ्यो नमः ।<br>
-    नमो नमः ।</p>
+<img class="exp-home-logo"
+     src="{{ '/assets/images/logo/samskritaamritam-logo.png' | relative_url }}"
+     alt="">
 
-    <p>‘संस्कृतामृतम्’ इत्यस्य अन्तर्जालीयपाठमालायाः जालपटेऽस्मिन् सर्वेषां हार्दिकं सुस्वागतम् ।<br>
-    अत्र विभिन्नसत्रेषु अधीतविषयाणां दृश्य-श्रव्य-मुद्राणां समुच्चयः उपलभ्यते ।<br>
-    यथाकक्षं प्रविश्य स्वाध्ययनार्थं तस्य सदुपयोगं कुर्वन्तु इति प्रार्थना ।</p>
 
-    <p class="home-jaya">जयतु संस्कृतम् ।</p>
-  </div> 
-  -->
+<h1>संस्कृतामृतम्</h1>
+
+<div class="exp-home-motto">विद्या अमृताय कल्पते</div>
+
+<div class="exp-home-kicker">Sanskrit learning • study • chanting</div>
+
+</div>
 </section>
 
-<section class="home-section">
-  <h2>कक्षाः</h2>
+<section class="exp-carousel-section" aria-label="Featured learning areas">
 
-  <div class="home-feature-grid">
+<div class="exp-carousel">
 
-    <a class="home-card home-feature-card"
-       href="{{ '/saturday-7am/' | relative_url }}">
-      <img src="{{ '/assets/images/classes/sambhAShanam.png' | relative_url }}"
-           alt="शनिवासरस्य सम्भाषणवर्गः">
-      <div class="home-card-body">
-        <div class="home-card-title">
-          शनिवासरः — प्रातः ७ वादनम्<br>
-          Sat - 7.00 AM IST
-        </div>
-      </div>
-    </a>
-
-    <a class="home-card home-feature-card"
-       href="{{ '/saturday-9pm/' | relative_url }}">
-      <img src="{{ '/assets/images/classes/sambhAShanam.png' | relative_url }}"
-           alt="शनिवासरस्य सम्भाषणवर्गः">
-      <div class="home-card-body">
-        <div class="home-card-title">
-          शनिवासरः — रात्रौ ९ वादनम्<br>
-          Sat - 9:00 PM IST
-        </div>
-      </div>
-    </a>
-
-    <a class="home-card home-feature-card"
-       href="{{ '/sunday-classes/' | relative_url }}">
-      <img src="{{ '/assets/images/classes/gItAyAH-bhASHA-1.jpg' | relative_url }}"
-           alt="गीतायाः भाषा">
-      <div class="home-card-body">
-        <div class="home-card-title">
-          रविवासरस्य वर्गौ
-        </div>
-        <div class="home-card-subtitle">
-          पूर्वाह्ने दशवादने, सायं नववादने च<br>
-          Sun - 10:00 AM &amp; 9:00 PM IST
-        </div>
-      </div>
-    </a>
-
+<div class="exp-slide active">
+  <img src="{{ '/assets/images/classes/sambhAShanam.png' | relative_url }}"
+       alt="सम्भाषणसंस्कृतम्">
+  <div class="exp-slide-caption">
+    <h2>सम्भाषणसंस्कृतम्</h2>
+    <p>Sanskrit through conversation</p>
   </div>
+</div>
+
+<div class="exp-slide">
+  <img src="{{ '/assets/images/classes/gItAyAH-bhASHA-1.jpg' | relative_url }}"
+       alt="गीतायाः भाषा">
+  <div class="exp-slide-caption">
+    <h2>गीतायाः भाषा</h2>
+    <p>Learning Sanskrit through the Bhagavad Gita</p>
+  </div>
+</div>
+
+<div class="exp-slide">
+  <img src="{{ '/assets/images/gita/gita-generic.png' | relative_url }}"
+       alt="भगवद्गीतापारायणम्">
+  <div class="exp-slide-caption">
+    <h2>भगवद्गीतापारायणम्</h2>
+    <p>Chanting the Bhagavad Gita</p>
+  </div>
+</div>
+
+<button class="exp-carousel-button exp-prev" type="button" aria-label="Previous slide">‹</button>
+<button class="exp-carousel-button exp-next" type="button" aria-label="Next slide">›</button>
+
+</div>
+
+<div class="exp-carousel-dots" aria-label="Carousel navigation">
+  <button class="exp-dot active" type="button" aria-label="Slide 1"></button>
+  <button class="exp-dot" type="button" aria-label="Slide 2"></button>
+  <button class="exp-dot" type="button" aria-label="Slide 3"></button>
+</div>
+
 </section>
 
-<section class="home-section">
-  <h2>भगवद्गीतापारायणम्</h2>
+<section class="exp-home-links">
 
-  <div class="home-feature-row">
-    <a class="home-card home-feature-card" href="{{ '/gita-chanting/' | relative_url }}">
-      <img src="{{ '/assets/images/gita/gita-generic.png' | relative_url }}"
-           alt="भगवद्गीतापारायणम्">
-      <div class="home-card-body">
-        <div class="home-card-title">श्रीमद्भगवद्गीता</div>
-      </div>
-    </a>
-  </div>
+<a class="exp-home-link-card" href="{{ '/classes/' | relative_url }}">
+  <div class="exp-home-link-label">Classes</div>
+  <h2>Learn Sanskrit</h2>
+  <p>Weekly classes, recordings and study material.</p>
+</a>
+
+<a class="exp-home-link-card" href="{{ '/gita-chanting/' | relative_url }}">
+  <div class="exp-home-link-label">Bhagavad Gita</div>
+  <h2>Study & Chant</h2>
+  <p>Gita Dhyanam, chapter chanting and supporting material.</p>
+</a>
+
+<a class="exp-home-link-card" href="{{ '/resources/' | relative_url }}">
+  <div class="exp-home-link-label">Resources</div>
+  <h2>Study Material</h2>
+  <p>Topic-videos and other useful materials.</p>
+</a>
+
+<a class="exp-home-link-card" href="{{ '/about/' | relative_url }}">
+  <div class="exp-home-link-label">About</div>
+  <h2>संस्कृतामृतम्</h2>
+  <p>About the classes, approach and future programmes.</p>
+</a>
+
+</section>
+
+<section class="exp-home-quote">
+  <div class="exp-home-quote-rule"></div>
+  <p>विद्या अमृताय कल्पते</p>
+  <div class="exp-home-quote-rule"></div>
 </section>
