@@ -855,13 +855,16 @@ body {
 /* ----- Navigation dropdown ----- */
 
 .nav-dropdown-button {
-    color: var(--ivory);
     background: transparent;
     border: none;
     color: inherit;
     font: inherit;
     cursor: pointer;
     padding: 0;
+}
+
+.nav-dropdown-button:hover {
+    color: #fff;
 }
 
 .nav-dropdown-menu {
