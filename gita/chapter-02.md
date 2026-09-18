@@ -152,6 +152,8 @@ permalink: /gita-chapter-02/
 <div class="gita-section-title">श्लोकविभागाः</div>
 
 <a href="#verses-1-4">१–४</a>
+<a href="#verses-5-7">५–७</a>
+<a href="#verses-8-12">८–१२</a>
 
 </div>
 
