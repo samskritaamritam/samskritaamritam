@@ -857,14 +857,14 @@ body {
 .nav-dropdown-button {
     background: transparent;
     border: none;
-    color: inherit;
+    color: var(--ivory);
     font: inherit;
     cursor: pointer;
     padding: 0;
 }
 
 .nav-dropdown-button:hover {
-    color: #fff;
+    color: var(--gold);
 }
 
 .nav-dropdown-menu {
