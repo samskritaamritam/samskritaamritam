@@ -532,24 +532,13 @@ details[open] > summary.book-summary::after {
     margin: 1rem 0 0.55rem;
 }
 
-/*.gita-verse {
+.gita-verse {
     width: 325px;
-    max-width: 90%;
-    margin: 0.9rem auto;
+    max-width: 100%;
+    margin: 0 auto 0.9rem;
     line-height: 1.8;
     text-align: left;
-    margin-left: auto;
-    margin-right: auto;
-} */
-
-.gita-verse {
-    width: 440px;
-    max-width: 90%;
-    margin: 0.9rem auto;
-    text-align: justify;
-    text-align-last: justify;
 }
-
 
 
 .gita-audio {
