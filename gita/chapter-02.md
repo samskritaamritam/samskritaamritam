@@ -96,8 +96,6 @@ permalink: /gita-chapter-02/
 
 </section>
 
-</section>
-
 <section class="gita-passage" id="verses-8-12">
 
 <h2>द्वितीयोऽध्यायः ८-१२</h2>
