@@ -98,6 +98,6 @@ home_special: true
 
 <section class="exp-home-quote">
   <div class="exp-home-quote-rule"></div>
-  <p>विद्या अमृताय कल्पते</p>
+  <p>लोकाः समस्ताः सुखनो भवन्तु ।</p>
   <div class="exp-home-quote-rule"></div>
 </section>
