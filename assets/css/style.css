@@ -540,6 +540,10 @@ details[open] > summary.book-summary::after {
     text-align: left;
 }
 
+.gita-verse .pada-offset {
+    display: inline-block;
+    margin-left: 2.5rem;
+}
 
 .gita-audio {
     text-align: center;
