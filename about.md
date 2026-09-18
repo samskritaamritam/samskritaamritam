@@ -1,6 +1,6 @@
 ---
 layout: default
-title: अस्माकं विषये
+title: जालपुटस्य विवरणम्
 subtitle: About
 permalink: /about/
 ---
