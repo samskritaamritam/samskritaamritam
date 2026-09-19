@@ -19,7 +19,7 @@ permalink: /saturday-9pm/
 </summary>
 
 
-[▶ नवीनतमा कक्षा](#class-26)
+[▶ नवीनतमा कक्षा](#class-27)
 
 <a id="class-1"></a>
 ## Class-01 (21-02-2026)
@@ -278,6 +278,16 @@ permalink: /saturday-9pm/
 - **Video:** [Video](https://drive.google.com/file/d/1q0bHJ9m7FjtIV5WE6BEyzju3BAhs6nTX/view?usp=drive_link)
 - **PPT:** [PPT](https://drive.google.com/file/d/1QyT5YyBgD6EBEMdR_78mnbxMwdwuzQKo/view?usp=drive_link)
 - **Topic Videos:** [Arabhya-paryantam](https://drive.google.com/file/d/12woGIyEZLHPASdRARluqhmfIp74VFAGh/view?usp=drive_link), [vinA]()
+
+---
+
+<a id="class-27"></a>
+## Class-27 (19-09-2026)
+
+- Topics: karaka vibhaktayaH, upapada vibhaktayaH
+- **Video:** [Video](https://drive.google.com/file/d/1KLsHYrtLtHzmbGyLad1pOjAzfWACB8Hu/view?usp=drive_link)
+- **PPT:** [PPT](https://drive.google.com/file/d/1P9hhlKboZN5AnPkgUVgCjO0obAX9kMd_/view?usp=drive_link)
+- **Topic Videos:** [Arabhya-paryantam](https://drive.google.com/file/d/12woGIyEZLHPASdRARluqhmfIp74VFAGh/view?usp=drive_link), [karaka-vibhaktayaH](https://drive.google.com/file/d/1xQ0phZ3Zk7LHfxvfP-Z31olW_GNgF86D/view?usp=drive_link), [upapada-vibhaktayaH](https://drive.google.com/file/d/1H1EaCwQWcWeeMfLon-HaX1l1h80OiMgY/view?usp=drive_link)
 
 ---
 

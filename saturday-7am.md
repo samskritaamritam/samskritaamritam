@@ -18,7 +18,7 @@ permalink: /saturday-7am/
   <span class="book-title">सम्भाषणवर्गः</span>
 </summary>
 
-[▶ नवीनतमा कक्षा](#class-05)
+[▶ नवीनतमा कक्षा](#class-06)
 
 <a id="class-01"></a>
 ## Class-01 (15-08-2026)
@@ -68,6 +68,16 @@ permalink: /saturday-7am/
 - **Video:** [Video](https://drive.google.com/file/d/1Lj168ce3ShYf1RTvwRnnBotCRX4kJfDm/view?usp=drive_link)
 - **PPT:** [PPT](https://drive.google.com/file/d/10I2stBF-26kCMuwziUE-v_cBhKSCsNPn/view?usp=drive_link)
 - **Topic-videos:** [bhavAn-kaH, bhavatI-kA](https://drive.google.com/file/d/1ocLdFGh2O6gNeBG2mIDMHZjqORKM-K5p/view?usp=drive_link), [adhikaranam](https://drive.google.com/file/d/1OTjSLoC9WFm4iv-ujEvdZe9JafMnkcae/view?usp=drive_link)
+
+---
+
+<a id="class-06"></a>
+## Class-06 (19-09-2026)
+
+- Topics: adhikaraNam, Avashyakam, paryAptam, mAstu, sambandaH
+- **Video:** [Video](https://drive.google.com/file/d/13YaRkV6bF2zBZNc8aQv7yVrDz6poah7W/view?usp=drive_link)
+- **PPT:** [PPT](https://drive.google.com/file/d/1s7cP166UEGdDUHnN7ZcKnBDo13hq94Sl/view?usp=drive_link)
+- **Topic-videos:** [adhikaranam](https://drive.google.com/file/d/1OTjSLoC9WFm4iv-ujEvdZe9JafMnkcae/view?usp=drive_link), [Avashyakam](https://drive.google.com/file/d/1zvNxE3NAYMg8mUJUystFBmqOjIAz_fxB/view?usp=drive_link), [sambandaH](https://drive.google.com/file/d/1rmAEXjukPIwH5Q744iqWbY82uL3GDNgr/view?usp=drive_link) 
 
 ---
 
