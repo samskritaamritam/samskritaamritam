@@ -274,7 +274,7 @@ permalink: /sunday-classes/
 <a id="class-25"></a>
 ## कक्षा-२५ (१३-०९-२०२६)
 
-- गीतायाः भाषा-१, पाठ-१५, पुटसंङ्ख्या - ९७-९८
+- गीतायाः भाषा-१, पाठ-१६, पुटसंङ्ख्या - ९७-९८
 - पाठविषयः - लोट-लकारः
 - टिप्पण्यां विशेषचिन्तनम् - परस्मैपदिधातूनां लोट्-रूपाणि (१,४,६,१०)
 - **दृश्यश्रव्यमुद्रणम्:** [▶ पूर्वाह्ने १० वादने](https://drive.google.com/file/d/1smfi1ENRQ1BLKUC1AT1B1E6CqVX6lqh1/view?usp=drive_link) · [▶ सायं ९ वादने](https://drive.google.com/file/d/18lRpF5fxBl2fwHKMGp9U2S-T5wnAnRm7/view?usp=drive_link)
@@ -285,11 +285,24 @@ permalink: /sunday-classes/
 <a id="class-26"></a>
 ## कक्षा-२६ (२०-०९-२०२६)
 
-- गीतायाः भाषा-१, पाठ-१५, पुटसंङ्ख्या - ९८-१००
+- गीतायाः भाषा-१, पाठ-१६, पुटसंङ्ख्या - ९८-१००
 - पाठविषयः - लोट-लकारः
 - टिप्पण्यां विशेषचिन्तनम् - परस्मैपदिधातूनां लोट्-रूपाणि (२,३,५,७,८,९)
 - **दृश्यश्रव्यमुद्रणम्:** [▶ पूर्वाह्ने १० वादने](https://drive.google.com/file/d/1RUWA_jPnt1y4VKMawEEnR3D8aW90diwv/view?usp=drive_link) · [▶ सायं ९ वादने](https://drive.google.com/file/d/13S0IsciKw0wMFWhow388sSmST2UbFMk7/view?usp=drive_link)
 
+
+---
+
+<a id="class-27"></a>
+## कक्षा-२७ (२७-०९-२०२६)
+
+- गीतायाः भाषा-१, पाठ-१६, पुटसंङ्ख्या - १००-१०२
+- पाठविषयः - लोट-लकारः
+- टिप्पण्यां विशेषचिन्तनम् - परस्मैपदिधातूनां लोट्-रूपाणि (२,३,५,७,८,९), आत्मनेपदिधातूनां लोट्-रूपाणि (१, ४, ६, १०)
+- **दृश्यश्रव्यमुद्रणम्:** [▶ पूर्वाह्ने १० वादने](https://drive.google.com/file/d/1PiqkG1_ljEqkQ8-4WSfPL_NT4P_kKAoH/view?usp=drive_link) · [▶ सायं ९ वादने](https://drive.google.com/file/d/1T_0smPiiu3vtFVnDlPJ3xZkVvZvO7QSf/view?usp=drive_link)
+
+
+---
 
 </details>
 

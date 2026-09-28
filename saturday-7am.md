@@ -18,7 +18,7 @@ permalink: /saturday-7am/
   <span class="book-title">सम्भाषणवर्गः</span>
 </summary>
 
-[▶ नवीनतमा कक्षा](#class-06)
+[▶ नवीनतमा कक्षा](#class-07)
 
 <a id="class-01"></a>
 ## Class-01 (15-08-2026)
@@ -78,6 +78,16 @@ permalink: /saturday-7am/
 - **Video:** [Video](https://drive.google.com/file/d/13YaRkV6bF2zBZNc8aQv7yVrDz6poah7W/view?usp=drive_link)
 - **PPT:** [PPT](https://drive.google.com/file/d/1s7cP166UEGdDUHnN7ZcKnBDo13hq94Sl/view?usp=drive_link)
 - **Topic-videos:** [adhikaranam](https://drive.google.com/file/d/1OTjSLoC9WFm4iv-ujEvdZe9JafMnkcae/view?usp=drive_link), [Avashyakam](https://drive.google.com/file/d/1zvNxE3NAYMg8mUJUystFBmqOjIAz_fxB/view?usp=drive_link), [sambandaH](https://drive.google.com/file/d/1rmAEXjukPIwH5Q744iqWbY82uL3GDNgr/view?usp=drive_link) 
+
+---
+
+<a id="class-07"></a>
+## Class-07 (26-09-2026)
+
+- Topics: sambandaH, kriyApadAni
+- **Video:** [Video](https://drive.google.com/file/d/1cau4bVKbzWb5SXZH5xofzM2zBOxEKjwF/view?usp=drive_link)
+- **PPT:** [PPT](https://drive.google.com/file/d/1s7cP166UEGdDUHnN7ZcKnBDo13hq94Sl/view?usp=drive_link)
+- **Topic-videos:** [sambandaH](https://drive.google.com/file/d/1rmAEXjukPIwH5Q744iqWbY82uL3GDNgr/view?usp=drive_link), [kriyApadAni](https://drive.google.com/file/d/1HTCaX5FvCE0JVHbUSqSykQ2LsJGuT4lj/view?usp=drive_link)
 
 ---
 

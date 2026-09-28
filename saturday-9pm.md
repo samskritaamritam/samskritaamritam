@@ -291,6 +291,16 @@ permalink: /saturday-9pm/
 
 ---
 
+<a id="class-28"></a>
+## Class-28 (26-09-2026)
+
+- Topics: karaka vibhaktayaH, upapada vibhaktayaH, kim-shabdha-rUpAni
+- **Video:** [Video](https://drive.google.com/file/d/1xMcYQJ7MsJKXYVomIdCMmKnhWBIJK08p/view?usp=drive_link)
+- **PPT:** [PPT](https://drive.google.com/file/d/1pqpSs68_TkmKRfOqV0aezDLgfEHRByAp/view?usp=drive_link)
+- **Topic Videos:** [karaka-vibhaktayaH](https://drive.google.com/file/d/1xQ0phZ3Zk7LHfxvfP-Z31olW_GNgF86D/view?usp=drive_link), [upapada-vibhaktayaH](https://drive.google.com/file/d/1H1EaCwQWcWeeMfLon-HaX1l1h80OiMgY/view?usp=drive_link), [kim-pada-rUpani](https://drive.google.com/file/d/1UBMRXnNOJ4lR06-eNSsBoxGaORyo3EcQ/view?usp=drive_link)
+
+---
+
 </details>
 
 </div>
