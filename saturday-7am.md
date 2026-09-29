@@ -86,7 +86,7 @@ permalink: /saturday-7am/
 
 - Topics: sambandaH, kriyApadAni
 - **Video:** [Video](https://drive.google.com/file/d/1cau4bVKbzWb5SXZH5xofzM2zBOxEKjwF/view?usp=drive_link)
-- **PPT:** [PPT](https://drive.google.com/file/d/1s7cP166UEGdDUHnN7ZcKnBDo13hq94Sl/view?usp=drive_link)
+- **PPT:** [PPT](https://drive.google.com/file/d/1L2PoxBo1lfw2LOoFkyVd-zRQ_QXB0Hli/view?usp=drive_link)
 - **Topic-videos:** [sambandaH](https://drive.google.com/file/d/1rmAEXjukPIwH5Q744iqWbY82uL3GDNgr/view?usp=drive_link), [kriyApadAni](https://drive.google.com/file/d/1HTCaX5FvCE0JVHbUSqSykQ2LsJGuT4lj/view?usp=drive_link)
 
 ---
