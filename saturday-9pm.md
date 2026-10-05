@@ -19,7 +19,7 @@ permalink: /saturday-9pm/
 </summary>
 
 
-[▶ नवीनतमा कक्षा](#class-27)
+[▶ नवीनतमा कक्षा](#class-28)
 
 <a id="class-1"></a>
 ## Class-01 (21-02-2026)
@@ -298,6 +298,16 @@ permalink: /saturday-9pm/
 - **Video:** [Video](https://drive.google.com/file/d/1xMcYQJ7MsJKXYVomIdCMmKnhWBIJK08p/view?usp=drive_link)
 - **PPT:** [PPT](https://drive.google.com/file/d/1pqpSs68_TkmKRfOqV0aezDLgfEHRByAp/view?usp=drive_link)
 - **Topic Videos:** [karaka-vibhaktayaH](https://drive.google.com/file/d/1xQ0phZ3Zk7LHfxvfP-Z31olW_GNgF86D/view?usp=drive_link), [upapada-vibhaktayaH](https://drive.google.com/file/d/1H1EaCwQWcWeeMfLon-HaX1l1h80OiMgY/view?usp=drive_link), [kim-pada-rUpani](https://drive.google.com/file/d/1UBMRXnNOJ4lR06-eNSsBoxGaORyo3EcQ/view?usp=drive_link)
+
+---
+
+<a id="class-29"></a>
+## Class-29 (03-10-2026)
+
+- Topics: kim-shabdha-rUpAni, yadi-tarhi, yatha-tatha
+- **Video:** [Video](https://drive.google.com/file/d/1E0jg69bPNtua-ZVnpj0dlNxHeWUjzHqX/view?usp=drive_link)
+- **PPT:** [PPT](https://drive.google.com/file/d/16gCgibVL7ehNH-CCycNvBTCi1ImvAU_x/view?usp=drive_link)
+- **Topic Videos:** [kim-pada-rUpani](https://drive.google.com/file/d/1UBMRXnNOJ4lR06-eNSsBoxGaORyo3EcQ/view?usp=drive_link), [yadi-tarhi](https://drive.google.com/file/d/1pvh0y5IRw_VKU69aQLbdbKoKzVF6atUh/view?usp=drive_link), [yatha-tatha](https://drive.google.com/file/d/1ckbFW678bT5SEaIaOzKEZjW1J5X9zvLU/view?usp=drive_link)
 
 ---
 

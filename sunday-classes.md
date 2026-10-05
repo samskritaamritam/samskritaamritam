@@ -18,7 +18,7 @@ permalink: /sunday-classes/
   <span class="book-title">गीतायाः भाषा-१</span>
 </summary>
 
-[▶ नवीनतमा कक्षा](#class-22)
+[▶ नवीनतमा कक्षा](#class-29)
 
 <a id="class-1"></a>
 ## कक्षा-१ (१३-०३-२०२६)
@@ -300,6 +300,15 @@ permalink: /sunday-classes/
 - पाठविषयः - लोट-लकारः
 - टिप्पण्यां विशेषचिन्तनम् - परस्मैपदिधातूनां लोट्-रूपाणि (२,३,५,७,८,९), आत्मनेपदिधातूनां लोट्-रूपाणि (१, ४, ६, १०)
 - **दृश्यश्रव्यमुद्रणम्:** [▶ पूर्वाह्ने १० वादने](https://drive.google.com/file/d/1PiqkG1_ljEqkQ8-4WSfPL_NT4P_kKAoH/view?usp=drive_link) · [▶ सायं ९ वादने](https://drive.google.com/file/d/1T_0smPiiu3vtFVnDlPJ3xZkVvZvO7QSf/view?usp=drive_link)
+
+---
+
+<a id="class-28"></a>
+## कक्षा-२८ (०४-१०-२०२६)
+
+- गीतायाः भाषा-१, पाठ-१६, पुटसंङ्ख्या - १०२-१०३
+- पाठविषयः - लोट-लकारः
+- **दृश्यश्रव्यमुद्रणम्:** [▶ पूर्वाह्ने १० वादने](https://drive.google.com/file/d/1-nbgJT1WJsrrgrPRxep6WwxBEHw817O1/view?usp=drive_link) · [▶ सायं ९ वादने](https://drive.google.com/file/d/1jw5YOVvXb5PUOZdqnu1efrx1C8TXVIPI/view?usp=drive_link)
 
 
 ---
