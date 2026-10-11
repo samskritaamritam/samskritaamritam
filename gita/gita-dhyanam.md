@@ -20,8 +20,12 @@ permalink: /gita-dhyanam/
 अम्ब त्वामनुसन्दधामि भगवद्गीते भवद्वेषिणीम् ।। (१)
 </div>
 
-<div class="sloka-audio">
-<a href="https://drive.google.com/file/d/1dWKTb87PEPirPmz7v6Kew9HkBNdX8kIo/view"> [🔊 श्रवणम्] </a>
+<div class="gita-audio">
+  <audio controls preload="none">
+    <source src="https://audio.samskritaamritam.co.in/gita/dhyanam/gitA-dhyana-slOkaH-1.mp3"
+                  type="audio/mpeg">
+          Your browser does not support the audio element.
+  </audio>
 </div>
 
 </div>
@@ -35,8 +39,12 @@ permalink: /gita-dhyanam/
 येन त्वया भारततैलपूर्णः प्रज्वालितो ज्ञानमयः प्रदीपः ।। (२)
 </div>
 
-<div class="sloka-audio">
-<a href="https://drive.google.com/file/d/1Y83NHpQ54hZcstULKkF1me7HNLdYu2DO/view"> [🔊 श्रवणम्] </a>
+<div class="gita-audio">
+  <audio controls preload="none">
+    <source src="https://audio.samskritaamritam.co.in/gita/dhyanam/gitA-dhyana-slOkaH-2.mp3"
+                  type="audio/mpeg">
+          Your browser does not support the audio element.
+  </audio>
 </div>
 
 </div>
@@ -50,8 +58,12 @@ permalink: /gita-dhyanam/
 ज्ञानमुद्राय कृष्णाय गीतामृतदुहे नमः ।। (३)
 </div>
 
-<div class="sloka-audio">
-<a href= "https://drive.google.com/file/d/1RA3Cza8swjx1z6tY1vjo0b0YwDG0P6vV/view"> [🔊 श्रवणम्] </a>
+<div class="gita-audio">
+  <audio controls preload="none">
+    <source src="https://audio.samskritaamritam.co.in/gita/dhyanam/gitA-dhyana-slOkaH-3.mp3"
+                  type="audio/mpeg">
+          Your browser does not support the audio element.
+  </audio>
 </div>
 
 </div>
@@ -65,8 +77,12 @@ permalink: /gita-dhyanam/
 पार्थो वत्सः(स्) सुधीर्भोक्ता दुग्धं(ङ्) गीतामृतं महत् ।। (४)
 </div>
 
-<div class="sloka-audio">
-<a href= "https://drive.google.com/file/d/1uJULuQPfbtGs1tunqFCIfi5PtmWCrJjt/view"> [🔊 श्रवणम्] </a>
+<div class="gita-audio">
+  <audio controls preload="none">
+    <source src="https://audio.samskritaamritam.co.in/gita/dhyanam/sarvOpaniShadOgAvaH.mp3"
+                  type="audio/mpeg">
+          Your browser does not support the audio element.
+  </audio>
 </div>
 
 </div>
@@ -80,8 +96,11 @@ permalink: /gita-dhyanam/
 देवकीपरमानन्दं कृष्णं वन्दे जगद्गुरुम् ।। (५)
 </div>
 
-<div class="sloka-audio">
-<a href= "https://drive.google.com/file/d/1rOQ-5ab4UQVbR7c97i5Zd7m1uh71HkPg/view"> [🔊 श्रवणम्] </a>
+<div class="gita-audio">
+  <audio controls preload="none">
+    <source src="https://audio.samskritaamritam.co.in/gita/dhyanam/gitA-dhyana-slOkaH-4.mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+  </audio>
 </div>
 
 </div>
@@ -97,8 +116,11 @@ permalink: /gita-dhyanam/
 सोत्तीर्णा खलु पाण्डवै रणनदी कैवर्तकः केशवः ।। (६)
 </div>
 
-<div class="sloka-audio">
-<a href= "https://drive.google.com/file/d/1VUK9Fc0N_PpvbbGB9GfRMQdJLM8Ex0wS/view"> [🔊 श्रवणम्] </a>
+<div class="gita-audio">
+  <audio controls preload="none">
+    <source src="https://audio.samskritaamritam.co.in/gita/dhyanam/bhiShama-drona-tathA.mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+  </audio>
 </div>
 
 </div>
@@ -114,8 +136,11 @@ permalink: /gita-dhyanam/
 भूयाद्भारतपङ्कजं कलिमलप्रध्वंसिनः(श्) श्रेयसे ।। (७)
 </div>
 
-<div class="sloka-audio">
-<a href= "https://drive.google.com/file/d/1jAWYCGDbmZaFcoKufiUehwDy8KLUybXv/view"> [🔊 श्रवणम्] </a>
+<div class="gita-audio">
+  <audio controls preload="none">
+    <source src="https://audio.samskritaamritam.co.in/gita/dhyanam/pArasharya-vacaH.mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+  </audio>
 </div>
 
 </div>
