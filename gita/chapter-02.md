@@ -141,6 +141,113 @@ permalink: /gita-chapter-02/
 
 </section>
 
+<section class="gita-passage" id="verses-13-15">
+
+<h2>द्वितीयोऽध्यायः १३-१५</h2>
+
+<div class="gita-verse">
+  देहिनोऽस्मिन्यथा देहे कौमारं(य्ँ) यौवनं जरा। <br>
+  तथा देहान्तरप्राप्तिर्(:) धीरस्तत्र न मुह्यति।। (२.१३) 
+</div>
+
+<div class="gita-verse">
+  मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुः(≍)खदाः। <br>
+  आगमापायिनोऽनित्यास्(:) तांस्तितिक्षस्व भारत।। (२-१४)
+</div>
+
+<div class="gita-verse">
+  यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ।<br>
+  समदुःखसुखं धीरं(म्) सोऽमृतत्वाय कल्पते।। (२-१५)
+</div>
+
+<div class="gita-audio">
+  <audio controls preload="none">
+    <source src="https://audio.samskritaamritam.co.in/gita/Ch-02/Ch-02-13-15.mp3"
+                  type="audio/mpeg">
+          Your browser does not support the audio element.
+  </audio>
+</div>
+
+</section>
+
+<section class="gita-passage" id="verses-16-20">
+
+<h2>द्वितीयोऽध्यायः १६-२०</h2>
+
+<div class="gita-verse">
+  नासतो विद्यते भावो(:) नाभावो विद्यते सतः। <br>
+  उभयोरपि दृष्टोऽन्तस्(:) त्वनयोस्तत्त्वदर्शिभिः।। (२.१६)
+</div>
+
+<div class="gita-verse">
+  अविनाशि तु तद्विद्धि येन सर्वमिदं(न्) ततम्। <br>
+  विनाशमव्ययस्यास्य न कश्चित् कर्तुमर्हति।।  (२-१७)
+</div>
+
+<div class="gita-verse">
+  अन्तवन्त इमे देहा(:) नित्यस्योक्ताः(श्) शरीरिणः। <br>
+  अनाशिनोऽप्रमेयस्य तस्माद्युध्यस्व भारत।। (२-१८)
+</div>
+
+<div class="gita-verse">
+  य एनं(व्ँ) वेत्ति हन्तारं(म्) यश्चैनं मन्यते हतम् । <br>
+  उभौ तौ न विजानीतो(:) नायं हन्ति न हन्यते।। (२-१९)
+</div>
+
+<div class="gita-verse">
+  न जायते म्रियते वा कदाचित् <br>
+  <span class="pada-offset"> नायं भूत्वा भविता वा न भूयः। </span> <br>
+  अजो नित्यः(श्) शाश्वतोऽयं पुराणो <br>
+  <span class="pada-offset"> न हन्यते हन्यमाने शरीरे ।। (२-२०) </span>
+</div>
+
+<div class="gita-audio">
+  <audio controls preload="none">
+    <source src="https://audio.samskritaamritam.co.in/gita/Ch-02/Ch-02-16-20.mp3"
+                  type="audio/mpeg">
+          Your browser does not support the audio element.
+  </audio>
+</div>
+
+</section>
+
+<section class="gita-passage" id="verses-16-20">
+
+<h2>द्वितीयोऽध्यायः २१-२४</h2>
+
+<div class="gita-verse">
+  वेदाविनाशिनं(न्) नित्यं य एनमजमव्ययम्।  <br>
+  कथं स पुरुषः(≍) पार्थ कं(ङ्) घातयति हन्ति कम्।।  (२-२१)
+</div>
+
+<div class="gita-verse">
+ वासांसि जीर्णानि यथा विहाय  <br>
+  <span class="pada-offset"> नवानि गृह्णाति नरोऽपराणि। </span> <br>
+	  तथा शरीराणि विहाय जीर्णानि <br>
+  <span class="pada-offset"> अन्यानि सं(य्ँ)याति नवानि देही।। (२-२२) </span>
+</div>
+
+<div class="gita-verse">
+नैनं(ञ्) छिन्दन्ति शस्त्राणि नैनं(न्) दहति पावकः। <br>  
+न चैनं(ङ्) क्लेदयन्त्यापो(:) न शोषयति मारुतः।। (२-२३)
+</div>
+
+<div class="gita-verse">
+अच्छेद्योऽयमदाह्योऽयम् अक्लेद्योऽशोष्य एव च। <br>  
+नित्यः(स्) सर्वगतः(स्) स्थाणुर्(:) अचलोऽयं सनातनः।। (२-२४)
+</div>
+
+<div class="gita-audio">
+  <audio controls preload="none">
+    <source src="https://audio.samskritaamritam.co.in/gita/Ch-02/Ch-02-21-24.mp3"
+                  type="audio/mpeg">
+          Your browser does not support the audio element.
+  </audio>
+</div>
+
+
+</section>
+
 </div>
 
 </main>
@@ -154,6 +261,9 @@ permalink: /gita-chapter-02/
 <a href="#verses-1-4">१–४</a>
 <a href="#verses-5-7">५–७</a>
 <a href="#verses-8-12">८–१२</a>
+<a href="#verses-13-15">१३–१५</a>
+<a href="#verses-16-20">१६ –२०</a>
+<a href="#verses-21-24">२१-२४</a>
 
 </div>
 
