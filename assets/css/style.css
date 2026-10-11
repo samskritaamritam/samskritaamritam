@@ -537,13 +537,14 @@ details[open] > summary.book-summary::after {
 
 .gita-verse,
 .text-verse {
-    width: 325px;
-    max-width: 100%;
-    margin: 0 auto 0.9rem;
+    width: auto;
+    margin-left: 35%;
+    margin-right: 0;
+    margin-bottom: 0.9rem;
     line-height: 1.8;
     text-align: left;
-    box-sizing: border-box;
 }
+
 
 .gita-verse .pada-offset,
 .text-verse .pada-offset{
