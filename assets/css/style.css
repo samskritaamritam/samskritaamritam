@@ -504,7 +504,8 @@ details[open] > summary.book-summary::after {
     margin: 1rem 0 2rem;
 }
 
-.gita-invocation {
+.gita-invocation,
+.text-invocation {
     font-size: 1.15rem;
     margin-bottom: 0.35rem;
 }
@@ -536,7 +537,8 @@ details[open] > summary.book-summary::after {
 }
 
 .gita-verse,
-.text-verse {
+.text-verse,
+.text-sloka {
     width: auto;
     margin-left: 25%;
     margin-right: 0;
@@ -547,7 +549,8 @@ details[open] > summary.book-summary::after {
 
 
 .gita-verse .pada-offset,
-.text-verse .pada-offset{
+.text-verse .pada-offset,
+.text-sloka .pada-offset{
     display: inline-block;
     margin-left: 2.5rem;
 }
@@ -565,11 +568,14 @@ details[open] > summary.book-summary::after {
 }
 
 @media (max-width: 600px) {
-    .gita-passage {
+    .gita-passage,
+    .text-passage {
         padding: 1rem;
     }
 
-    .gita-verse {
+    .gita-verse,
+    .text-verse,
+    .text-sloka {
         line-height: 1.7;
     }
 }
@@ -977,12 +983,14 @@ summary.book-summary {
 
 /* ----- Gita chapter passages ----- */
 
-.gita-passage {
+.gita-passage,
+.text-passage {
     background: var(--cream-light);
     border-color: var(--border);
 }
 
-.gita-audio a {
+.gita-audio a,
+.text-audio a {
     color: var(--maroon);
 }
 
