@@ -513,7 +513,8 @@ details[open] > summary.book-summary::after {
     margin: 0;
 }
 
-.gita-passage {
+.gita-passage,
+.text-passage{
     background: #f5f5f5;
     border: 1px solid #e2e2e2;
     border-radius: 12px;
@@ -521,36 +522,42 @@ details[open] > summary.book-summary::after {
     margin: 0 0 1.35rem;
 }
 
-.gita-passage h2 {
+.gita-passage h2,
+.text-passage h2{
     text-align: center;
     margin: 0 0 1.2rem;
 }
 
-.gita-speaker {
+.gita-speaker,
+.text-speaker{
     text-align: center;
     font-weight: 700;
     margin: 1rem 0 0.55rem;
 }
 
-.gita-verse {
-    width: 325px;
+.gita-verse,
+.text-verse {
+    width: 375px;
     max-width: 100%;
     margin: 0 auto 0.9rem;
     line-height: 1.8;
     text-align: left;
 }
 
-.gita-verse .pada-offset {
+.gita-verse .pada-offset,
+.text-verse .pada-offset{
     display: inline-block;
     margin-left: 2.5rem;
 }
 
-.gita-audio {
+.gita-audio,
+.text-audio{
     text-align: center;
     margin-top: 1rem;
 }
 
-.gita-audio a {
+.gita-audio a,
+.text-audio a{
     text-decoration: none;
     font-weight: 600;
 }
