@@ -41,8 +41,7 @@ permalink: /gita-dhyanam/
 
 <div class="gita-audio">
   <audio controls preload="none">
-    <source src="https://audio.samskritaamritam.co.in/gita/dhyanam/gitA-dhyana-slOkaH-2.mp3"
-                  type="audio/mpeg">
+    <source src="https://audio.samskritaamritam.co.in/gita/dhyanam/gitA-dhyAna-slOkaH-2.mp3" type="audio/mpeg">
           Your browser does not support the audio element.
   </audio>
 </div>
@@ -60,8 +59,7 @@ permalink: /gita-dhyanam/
 
 <div class="gita-audio">
   <audio controls preload="none">
-    <source src="https://audio.samskritaamritam.co.in/gita/dhyanam/gitA-dhyana-slOkaH-3.mp3"
-                  type="audio/mpeg">
+    <source src="https://audio.samskritaamritam.co.in/gita/dhyanam/gitA-dhyAna-slOkaH-3.mp3" type="audio/mpeg">
           Your browser does not support the audio element.
   </audio>
 </div>
@@ -92,13 +90,13 @@ permalink: /gita-dhyanam/
 <h2>गीताध्यानश्लोकः ५</h2>
 
 <div class="sloka-text">
-वसुदेवसुतं देवं कंसचानूरमर्दनम् ।<br>
-देवकीपरमानन्दं कृष्णं वन्दे जगद्गुरुम् ।। (५)
+वसुदेवसुतं(न्) देवं(म्) कंसचानूरमर्दनम् ।<br>
+देवकीपरमानन्दं(म्) कृष्णं(व्ँ) वन्दे जगद्गुरुम् ।। (५)
 </div>
 
 <div class="gita-audio">
   <audio controls preload="none">
-    <source src="https://audio.samskritaamritam.co.in/gita/dhyanam/gitA-dhyana-slOkaH-4.mp3" type="audio/mpeg">
+    <source src="https://audio.samskritaamritam.co.in/gita/dhyanam/gitA-dhyAna-slOkaH-4.mp3" type="audio/mpeg">
           Your browser does not support the audio element.
   </audio>
 </div>
@@ -130,10 +128,10 @@ permalink: /gita-dhyanam/
 <h2>गीताध्यानश्लोकः ७</h2>
 
 <div class="sloka-text">
-पाराशर्यवचः(स्) सरोजममलं गीतार्थगन्धोत्कटम् ।<br>
-नानाख्यानककेसरं हरिकथासम्बोधनाबोधितम् ।।<br>
+पाराशर्यवचः(स्) सरोजममलं(म्) गीतार्थगन्धोत्कटम् ।<br>
+नानाख्यानककेसरं(म्) हरिकथासम्बोधनाबोधितम् ।।<br>
 लोके सज्जनषट्पदैरहरहः पेपीयमानं मुदा ।<br>
-भूयाद्भारतपङ्कजं कलिमलप्रध्वंसिनः(श्) श्रेयसे ।। (७)
+भूयाद्भारतपङ्कजं(म्) कलिमलप्रध्वंसिनः(श्) श्रेयसे ।। (७)
 </div>
 
 <div class="gita-audio">
