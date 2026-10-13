@@ -95,3 +95,6 @@ Short topic-wise lessons for learning and revising spoken Sanskrit.
 - [▶ purataH-pRShtataH-upari-adhaH-vamataH-dakShinataH-antaH-bahiH](https://drive.google.com/file/d/1gyXfwMZEHQeK4ukRSjGQvN9sgqIajl7n/view?usp=drive_link)
 - [▶ yada-tada](https://drive.google.com/file/d/1KUvVpC_I3ThCzglYGeqqJgor3TQjBorm/view?usp=drive_link)
 - [▶ Arabhya-paryantam](https://drive.google.com/file/d/12woGIyEZLHPASdRARluqhmfIp74VFAGh/view?usp=drive_link)
+- [▶ yadi-tarhi](https://drive.google.com/file/d/1pvh0y5IRw_VKU69aQLbdbKoKzVF6atUh/view?usp=drive_link) 
+- [▶ yatha-tatha](https://drive.google.com/file/d/1ckbFW678bT5SEaIaOzKEZjW1J5X9zvLU/view?usp=drive_link)
+- [▶ cet](https://drive.google.com/file/d/1qc8rLH0ACGUE-7OrZ8gpsabODct0Y7tZ/view?usp=drive_link)
