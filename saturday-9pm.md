@@ -311,6 +311,16 @@ permalink: /saturday-9pm/
 
 ---
 
+<a id="class-30"></a>
+## Class-30 (10-10-2026)
+
+- Topics: v-v-bhAvaH, cet
+- **Video:** [Video](https://drive.google.com/file/d/1kSqNHak5Ci4h_uaUwH-JKZoq1omcLeqG/view?usp=drive_link)
+- **PPT:** [PPT](https://drive.google.com/file/d/1bm5UM_U1pr0CBJlwqUZ4RregsZ9ZWnfI/view?usp=drive_link)
+- **Topic Videos:** [v-v-bhAvaH](https://drive.google.com/file/d/1YvXEqxPcnPxMPEfrp5KBuUCHFCRNWd_x/view?usp=drive_link), [cet]()
+
+---
+
 </details>
 
 </div>

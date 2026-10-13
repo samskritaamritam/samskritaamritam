@@ -92,12 +92,22 @@ permalink: /saturday-7am/
 ---
 
 <a id="class-08"></a>
-## Class-07 (03-10-2026)
+## Class-08 (03-10-2026)
 
 - Topics: sambandaH, kriyApadAni, samayaH
 - **Video:** [Video](https://drive.google.com/file/d/1APkMDqVu30ZzMQnJmBIM6aqigTx1OTjx/view?usp=drive_link)
 - **PPT:** [PPT](https://drive.google.com/file/d/1f278itcOM21WxlKnYOiA45dm0SaoJsl6/view?usp=drive_link)
 - **Topic-videos:** [sambandaH](https://drive.google.com/file/d/1rmAEXjukPIwH5Q744iqWbY82uL3GDNgr/view?usp=drive_link), [kriyApadAni](https://drive.google.com/file/d/1HTCaX5FvCE0JVHbUSqSykQ2LsJGuT4lj/view?usp=drive_link), [samayaH](https://drive.google.com/file/d/1VJz7F_ZY-5zLmQXz8TR_KR1VYdbsK7EU/view?usp=drive_link)
+
+---
+
+<a id="class-09"></a>
+## Class-09 (10-10-2026)
+
+- Topics: etasya-tasya-etasyAH-tasyAH, sankhyA(1-20), samayaH
+- **Video:** [Video](https://drive.google.com/file/d/15oRWf4V4vRQCwXX4Ub-kb4FoxCod4l68/view?usp=drive_link)
+- **PPT:** [PPT](https://drive.google.com/file/d/1Dln1wyzzWoUqRV5TH_XtDWLfbNJ3lXfO/view?usp=drive_link)
+- **Topic-videos:** [sankhyA-1-20](https://drive.google.com/file/d/1c1iJevr5pz2jg1rfysqmQsxpZNl-VZZc/view?usp=drive_link), [samayaH](https://drive.google.com/file/d/1VJz7F_ZY-5zLmQXz8TR_KR1VYdbsK7EU/view?usp=drive_link)
 
 
 ---
