@@ -277,7 +277,7 @@ permalink: /saturday-9pm/
 - Topics: vinA, Arabhya-paryantam
 - **Video:** [Video](https://drive.google.com/file/d/1q0bHJ9m7FjtIV5WE6BEyzju3BAhs6nTX/view?usp=drive_link)
 - **PPT:** [PPT](https://drive.google.com/file/d/1QyT5YyBgD6EBEMdR_78mnbxMwdwuzQKo/view?usp=drive_link)
-- **Topic Videos:** [Arabhya-paryantam](https://drive.google.com/file/d/12woGIyEZLHPASdRARluqhmfIp74VFAGh/view?usp=drive_link), [vinA]()
+- **Topic Videos:** [Arabhya-paryantam](https://drive.google.com/file/d/12woGIyEZLHPASdRARluqhmfIp74VFAGh/view?usp=drive_link), [vinA](https://drive.google.com/file/d/1f9CXXhZfCXYnXQHJs2doomitDP8P63UG/view?usp=drive_link)
 
 ---
 
@@ -317,7 +317,7 @@ permalink: /saturday-9pm/
 - Topics: v-v-bhAvaH, cet
 - **Video:** [Video](https://drive.google.com/file/d/1kSqNHak5Ci4h_uaUwH-JKZoq1omcLeqG/view?usp=drive_link)
 - **PPT:** [PPT](https://drive.google.com/file/d/1bm5UM_U1pr0CBJlwqUZ4RregsZ9ZWnfI/view?usp=drive_link)
-- **Topic Videos:** [v-v-bhAvaH](https://drive.google.com/file/d/1YvXEqxPcnPxMPEfrp5KBuUCHFCRNWd_x/view?usp=drive_link), [cet]()
+- **Topic Videos:** [v-v-bhAvaH](https://drive.google.com/file/d/1YvXEqxPcnPxMPEfrp5KBuUCHFCRNWd_x/view?usp=drive_link), [cet](https://drive.google.com/file/d/1qc8rLH0ACGUE-7OrZ8gpsabODct0Y7tZ/view?usp=drive_link)
 
 ---
 
