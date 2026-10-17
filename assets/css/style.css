@@ -429,11 +429,13 @@ details[open] > summary.book-summary::after {
     }
 }
 
+.text-page-image,
 .gita-page-image {
     text-align: center;
     margin: 0 auto 2rem;
 }
 
+.text-page-image img,
 .gita-page-image img {
     width: 220px;
     max-width: 100%;

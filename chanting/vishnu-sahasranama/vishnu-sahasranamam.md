@@ -3,7 +3,11 @@ layout: default
 title: श्रीविष्णुसहस्रनामस्तोत्रम्
 permalink: /vishnu-sahasranamam/
 ---
-    
+
+<div class="text-page-image">
+  <img src="/assets/images/chanting/vishnu-sheshashayi.png">
+</div>
+
 <div class="text-chapter-heading">
   <div class="text-invocation">हरिः ॐ ।।</div>
   <div class="text-invocation">ॐ श्रीपरमात्मने नमः ।।</div>
