@@ -499,6 +499,7 @@ details[open] > summary.book-summary::after {
     margin: 0 auto;
 }
 
+.text-chapter-heading,
 .gita-chapter-heading {
     text-align: center;
     margin: 1rem 0 2rem;
@@ -510,6 +511,7 @@ details[open] > summary.book-summary::after {
     margin-bottom: 0.35rem;
 }
 
+.text-chapter-heading h1,
 .gita-chapter-heading h1 {
     margin: 0;
 }
