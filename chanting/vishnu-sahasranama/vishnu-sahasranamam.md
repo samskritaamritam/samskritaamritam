@@ -1,7 +1,7 @@
 ---
 layout: default
 title: श्रीविष्णुसहस्रनामस्तोत्रम्
-permalink: /text-slokam/
+permalink: /vishnu-sahasranama/
 ---
 
 <div class="text-page-image">
