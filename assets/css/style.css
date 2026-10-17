@@ -542,13 +542,16 @@ details[open] > summary.book-summary::after {
 .text-verse,
 .text-sloka {
     width: auto;
-    margin-left: 30%;
+    margin-left: 25%;
     margin-right: 0;
     margin-bottom: 0.9rem;
     line-height: 1.8;
     text-align: left;
 }
 
+.vishnu-sahasranama .text-sloka {
+    margin-left: 30%;
+}
 
 .gita-verse .pada-offset,
 .text-verse .pada-offset,
