@@ -18,7 +18,7 @@ permalink: /saturday-7am/
   <span class="book-title">सम्भाषणवर्गः</span>
 </summary>
 
-[▶ नवीनतमा कक्षा](#class-08)
+[▶ नवीनतमा कक्षा](#class-10)
 
 <a id="class-01"></a>
 ## Class-01 (15-08-2026)
@@ -109,6 +109,16 @@ permalink: /saturday-7am/
 - **PPT:** [PPT](https://drive.google.com/file/d/1Dln1wyzzWoUqRV5TH_XtDWLfbNJ3lXfO/view?usp=drive_link)
 - **Topic-videos:** [sankhyA-1-20](https://drive.google.com/file/d/1c1iJevr5pz2jg1rfysqmQsxpZNl-VZZc/view?usp=drive_link), [samayaH](https://drive.google.com/file/d/1VJz7F_ZY-5zLmQXz8TR_KR1VYdbsK7EU/view?usp=drive_link)
 
+
+---
+
+<a id="class-10"></a>
+## Class-09 (17-10-2026)
+
+- Topics: kadA, sambhodanam
+- **Video:** [Video](https://drive.google.com/file/d/1a2lPFimrc64WeB7BSmi6rKx_6Hkfm_na/view?usp=drive_link)
+- **PPT:** [PPT](https://drive.google.com/file/d/151qCX4-87Q2fhyN_Qxg1o4UNVwUFoCf7/view?usp=drive_link)
+- **Topic-videos:** [kadA](https://drive.google.com/file/d/1PX6ECcIqFIX6SvgP9m-SToZji-j80PEu/view?usp=drive_link), [sambhodanam](https://drive.google.com/file/d/1CRNhYp0VmUePrxJ-ASqa_tPYnutP7qBG/view?usp=drive_link)
 
 ---
 
