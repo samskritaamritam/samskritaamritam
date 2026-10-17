@@ -1,6 +1,6 @@
 ---
 layout: default
-title: विष्णुसहस्रनामस्तोत्रम्
+title: श्रीविष्णुसहस्रनामस्तोत्रम्
 permalink: /vishnu-sahasranamam/
 ---
     
@@ -17,27 +17,27 @@ permalink: /vishnu-sahasranamam/
 <section class="text-passage" id="verses-1-5">
 <h2>१-५</h2>
 
-    <div class="text-sloka">
+    <div class="vishnu-sahasranama">
     शुक्लाम्बरधरं(व्ँ) विष्णुं(म्) शशिवर्णं(ञ्) चतुर्भुजम् । <br>
     प्रसन्नवदनं(न्) ध्यायेत् सर्वविघ्नोपशान्तये ॥ १॥
     </div>
 
-    <div class="text-sloka">
+    <div class="vishnu-sahasranama">
     व्यासं(व्ँ) वसिष्ठनप्तारं(म्) शक्तेः(≍) पौत्रमकल्मषम् । <br>
     पराशरात्मजं(व्ँ) वन्दे शुकतातं(न्) तपोनिधिम् ॥ २ ॥
     </div>
 
-    <div class="text-sloka">
+    <div class="vishnu-sahasranama">
     व्यासाय विष्णुरूपाय व्यारूपाय विष्णवे । <br>
     नमो वै ब्रह्मनिधये वासिष्ठाय नमो नमः ॥ ३ ॥
     </div>
 
-    <div class="text-sloka">
+    <div class="vishnu-sahasranama">
     अविकाराय शुद्धाय नित्याय परमात्मने । <br>
     सदैकरूपरूपाय विष्णवे सर्वजिष्णवे ॥ ४ ॥
     </div>
 
-    <div class="text-sloka">
+    <div class="vishnu-sahasranama">
     यस्य स्मरणमात्रेण जन्मसंसारबन्धनात् । <br>
     विमुच्यते नमस्तस्मै विष्णवे प्रभविष्णवे ॥ ५ ।।
     </div>
