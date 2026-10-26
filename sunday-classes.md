@@ -313,6 +313,17 @@ permalink: /sunday-classes/
 
 ---
 
+<a id="class-29"></a>
+## कक्षा-२९ (२५-१०-२०२६)
+
+- गीतायाः भाषा-१, पाठ-१७, पुटसंङ्ख्या - १०४-१०७
+- पाठविषयः - सङ्ख्या
+- टिप्पण्यां विशेषचिन्तनम् - सङ्ख्या 
+- **दृश्यश्रव्यमुद्रणम्:** [▶ पूर्वाह्ने १० वादने](https://drive.google.com/file/d/1rDn1WmiVFLy_veSDxsVf4y3aiR7C9rRP/view?usp=drive_link) · [▶ सायं ९ वादने](https://drive.google.com/file/d/1CMn0gThI7ewn9SkKrUluMZ6t95DW6hLm/view?usp=drive_link)
+
+
+---
+
 </details>
 
 </div>
@@ -325,6 +336,7 @@ permalink: /sunday-classes/
 - [टिप्पनी](https://drive.google.com/file/d/1-v3I1MaARP5wNRKdRqFrJjGrIW8i5W9n/view?usp=drive_link)
 - [शब्दाः](https://drive.google.com/file/d/1kQ1O9F0azb2kXAXU6qmbG8JIcBF75M_H/view?usp=drive_link)
 - [अभ्यासपत्रम्](https://drive.google.com/file/d/17IT3NxQcES-b4AksfK6w8-VCzPdTf2Yd/view?usp=drive_link)
+- [लकार-प्रत्ययाः](https://drive.google.com/file/d/1Pq6Y4utH4oSZBw71PlWXYiMcQyImq3dH/view?usp=drive_link)
 
 </details>
 

@@ -113,7 +113,7 @@ permalink: /saturday-7am/
 ---
 
 <a id="class-10"></a>
-## Class-09 (17-10-2026)
+## Class-10 (17-10-2026)
 
 - Topics: kadA, sambhodanam
 - **Video:** [Video](https://drive.google.com/file/d/1a2lPFimrc64WeB7BSmi6rKx_6Hkfm_na/view?usp=drive_link)
@@ -122,6 +122,15 @@ permalink: /saturday-7am/
 
 ---
 
+<a id="class-11"></a>
+## Class-11 (24-10-2026)
+
+- Topics: dvivacanam, bahuvacanam, katham
+- **Video:** [Video](https://drive.google.com/file/d/1-iXsWisfUXwLQncijNo4SUM0RYMiZeHP/view?usp=drive_link)
+- **PPT:** [PPT](https://drive.google.com/file/d/1EjiDKU4mhi5QOAa68S5PFnO2WUGkNtL0/view?usp=drive_link)
+- **Topic-videos:** [dvivacanam](https://drive.google.com/file/d/1W9oEoJrUnj2_Y_M_ZLPWxd-eCIq7Wemp/view?usp=drive_link), [bahuvacanam](https://drive.google.com/file/d/1cONcgyhcCJSGthI9Lcg8nQN41hIkFYW6/view?usp=drive_link), [katham](https://drive.google.com/file/d/1nwKNQlyY0Wt8KOaElHwHOj9lrutbSmj1/view?usp=drive_link)
+
+---
 </details>
 
 </div>
