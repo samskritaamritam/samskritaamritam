@@ -331,6 +331,15 @@ permalink: /saturday-9pm/
 
 ---
 
+<a id="class-32"></a>
+## Class-32 (01-11-2026)
+
+- Topics: vidhiling, yat-tat
+- **Video:** [Video](https://drive.google.com/file/d/1Ajh-ern-iNB5y2PofwlKG_EzTuIMsnMg/view?usp=drive_link)
+- **PPT:** [PPT](https://drive.google.com/file/d/1sPC5XuzGunGlNvnFG4TQKIqY8N-SwtLK/view?usp=drive_link)
+
+---
+
 </details>
 
 </div>

@@ -18,7 +18,7 @@ permalink: /saturday-7am/
   <span class="book-title">सम्भाषणवर्गः</span>
 </summary>
 
-[▶ नवीनतमा कक्षा](#class-10)
+[▶ नवीनतमा कक्षा](#class-12)
 
 <a id="class-01"></a>
 ## Class-01 (15-08-2026)
@@ -129,6 +129,16 @@ permalink: /saturday-7am/
 - **Video:** [Video](https://drive.google.com/file/d/1-iXsWisfUXwLQncijNo4SUM0RYMiZeHP/view?usp=drive_link)
 - **PPT:** [PPT](https://drive.google.com/file/d/1EjiDKU4mhi5QOAa68S5PFnO2WUGkNtL0/view?usp=drive_link)
 - **Topic-videos:** [dvivacanam](https://drive.google.com/file/d/1W9oEoJrUnj2_Y_M_ZLPWxd-eCIq7Wemp/view?usp=drive_link), [bahuvacanam](https://drive.google.com/file/d/1cONcgyhcCJSGthI9Lcg8nQN41hIkFYW6/view?usp=drive_link), [katham](https://drive.google.com/file/d/1nwKNQlyY0Wt8KOaElHwHOj9lrutbSmj1/view?usp=drive_link)
+
+---
+
+<a id="class-12"></a>
+## Class-11 (31-10-2026)
+
+- Topics: katham, karma, sankhyA 21-40 
+- **Video:** [Video](https://drive.google.com/file/d/1wb6tmCS0crxqVo7md-Z8zmfiSi4SLPS3/view?usp=drive_link)
+- **PPT:** [PPT](https://drive.google.com/file/d/1opfz1pK1ChXNHNrWgPzBZcwTZWQjsr3M/view?usp=drive_link)
+- **Topic-videos:** [katham-1](https://drive.google.com/file/d/1nwKNQlyY0Wt8KOaElHwHOj9lrutbSmj1/view?usp=drive_link), [katham-2](https://drive.google.com/file/d/1DdPnPesWB4v61y_oUaLLandYwYeGJKf2/view?usp=drive_link), [karma](https://drive.google.com/file/d/19fXE2PgE7qvRCTO082zSusZ2srIYa7rp/view?usp=drive_link), [sankhya-21-40](https://drive.google.com/file/d/1UQgWJNHRBG8qm07242ctsneAflQ0t3sF/view?usp=drive_link)
 
 ---
 </details>

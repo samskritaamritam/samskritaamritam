@@ -324,6 +324,15 @@ permalink: /sunday-classes/
 
 ---
 
+<a id="class-30"></a>
+## कक्षा-२९ (०१-११-२०२६)
+
+- टिप्पण्यां विशेषचिन्तनम् - इदम् शब्दः 
+- **दृश्यश्रव्यमुद्रणम्:** [▶ पूर्वाह्ने १० वादने](https://drive.google.com/file/d/1twDIOi0cfG0FaTkwsb5jgXSoSEv-EUJ-/view?usp=drive_link) · [▶ सायं ९ वादने](https://drive.google.com/file/d/1wpRUXfTueFXqLET4pc-jaUGc-VuM77OI/view?usp=drive_link)
+
+
+---
+
 </details>
 
 </div>
@@ -333,7 +342,7 @@ permalink: /sunday-classes/
 <details open markdown="1">
 <summary>पठनसामग्री</summary>
 
-- [टिप्पनी](https://drive.google.com/file/d/1-v3I1MaARP5wNRKdRqFrJjGrIW8i5W9n/view?usp=drive_link)
+- [टिप्पणी](https://drive.google.com/file/d/1-v3I1MaARP5wNRKdRqFrJjGrIW8i5W9n/view?usp=drive_link)
 - [शब्दाः](https://drive.google.com/file/d/1kQ1O9F0azb2kXAXU6qmbG8JIcBF75M_H/view?usp=drive_link)
 - [अभ्यासपत्रम्](https://drive.google.com/file/d/17IT3NxQcES-b4AksfK6w8-VCzPdTf2Yd/view?usp=drive_link)
 - [लकार-प्रत्ययाः](https://drive.google.com/file/d/1Pq6Y4utH4oSZBw71PlWXYiMcQyImq3dH/view?usp=drive_link)
