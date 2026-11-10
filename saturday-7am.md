@@ -18,7 +18,7 @@ permalink: /saturday-7am/
   <span class="book-title">सम्भाषणवर्गः</span>
 </summary>
 
-[▶ नवीनतमा कक्षा](#class-12)
+[▶ नवीनतमा कक्षा](#class-13)
 
 <a id="class-01"></a>
 ## Class-01 (15-08-2026)
@@ -146,7 +146,7 @@ permalink: /saturday-7am/
 ## Class-13 (07-10-2026)
 
 - Topics: kriyA-dvivacanam-bahuvacanam, karma, 
-- **Video:** [Video](https://drive.google.com/file/d/1XJCTiCW-z92Z3h1zvyoEflfb_-cnz95E/view?usp=drive_link))
+- **Video:** [Video](https://drive.google.com/file/d/1XJCTiCW-z92Z3h1zvyoEflfb_-cnz95E/view?usp=drive_link)
 - **PPT:** [PPT](https://drive.google.com/file/d/1U5oKnRMrv30j6b4o1VSTTzJFHeRBlFCm/view?usp=drive_link)
 - **Topic-videos:** [kriyA-dvivacanam-bahuvacanam](https://drive.google.com/file/d/18XYl_43Dwx58GrCmFjPzow1iBarsjn3D/view?usp=drive_link), [karma](https://drive.google.com/file/d/19fXE2PgE7qvRCTO082zSusZ2srIYa7rp/view?usp=drive_link)
 
