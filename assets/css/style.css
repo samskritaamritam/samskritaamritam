@@ -1461,41 +1461,95 @@ a.exp-home-link-card:hover {
 }
 
 
-/* On-demand Bunny video player */
-
-.bunny-watch {
-    display: inline-block;
-    padding: 8px 16px;
-    border: 1px solid #8b5e3c;
-    border-radius: 5px;
-    background: #f8f3eb;
-    color: #603b27;
-    cursor: pointer;
-    font: inherit;
+/* Classroom video layout */
+.classroom-layout {
+  display: grid;
+  grid-template-columns: 180px minmax(0, 1fr) 190px;
+  gap: 1.25rem;
+  align-items: start;
 }
 
-.bunny-watch:hover {
-    background: #eee2d2;
+.classroom-list,
+.classroom-sidebar {
+  min-width: 0;
 }
 
-.bunny-player-slot {
-    position: relative;
+.class-select {
+  display: block;
+  width: 100%;
+  text-align: left;
+  padding: 0.7rem;
+  margin-bottom: 0.5rem;
+  border: 1px solid var(--border-color, #ddd);
+  border-radius: 6px;
+  background: transparent;
+  color: inherit;
+  cursor: pointer;
+}
+
+.class-select small {
+  display: block;
+  margin-top: 0.25rem;
+  opacity: 0.7;
+}
+
+.class-select.is-active {
+  border-color: #8b3030;
+  background: rgba(139, 48, 48, 0.08);
+}
+
+.bunny-player {
+  position: relative;
+  padding-top: 56.25%;
+  width: 100%;
+  background: #111;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.bunny-player iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.class-details {
+  margin-top: 1.25rem;
+}
+
+.class-details details {
+  margin-top: 1rem;
+}
+
+@media (max-width: 850px) {
+  .classroom-layout {
+    grid-template-columns: 150px minmax(0, 1fr);
+  }
+
+  .classroom-sidebar {
+    grid-column: 1 / -1;
+  }
+}
+
+@media (max-width: 600px) {
+  .classroom-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .classroom-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .classroom-list h3 {
     width: 100%;
-    aspect-ratio: 16 / 9;
-    margin: 12px 0 20px;
-    background: #000;
-    border-radius: 8px;
-    overflow: hidden;
-}
+  }
 
-.bunny-player-slot[hidden] {
-    display: none;
-}
-
-.bunny-player-slot iframe {
-    position: absolute;
-    inset: 0;
-    width: 100%;
-    height: 100%;
-    border: 0;
+  .class-select {
+    width: auto;
+    flex: 1;
+  }
 }
