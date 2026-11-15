@@ -1460,18 +1460,44 @@ a.exp-home-link-card:hover {
     }
 }
 
-/* =========================================================
-   Bunny Stream Video Player
-   ========================================================= */
+
+/* Classroom prototype */
+
+.classroom {
+    display: grid;
+    grid-template-columns: 260px minmax(0, 1fr);
+    gap: 24px;
+    align-items: start;
+}
+
+.class-list details {
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.class-list summary {
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.class-list button {
+    cursor: pointer;
+    padding: 7px 12px;
+}
+
+.class-player {
+    min-width: 0;
+}
 
 .bunny-video {
     position: relative;
     width: 100%;
     padding-top: 56.25%;
-    margin: 1.5rem 0;
-    overflow: hidden;
-    border-radius: 10px;
     background: #000;
+    overflow: hidden;
+    border-radius: 8px;
 }
 
 .bunny-video iframe {
@@ -1480,4 +1506,10 @@ a.exp-home-link-card:hover {
     width: 100%;
     height: 100%;
     border: 0;
+}
+
+@media (max-width: 700px) {
+    .classroom {
+        grid-template-columns: 1fr;
+    }
 }
