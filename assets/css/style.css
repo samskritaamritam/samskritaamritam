@@ -1461,55 +1461,41 @@ a.exp-home-link-card:hover {
 }
 
 
-/* Classroom prototype */
+/* On-demand Bunny video player */
 
-.classroom {
-    display: grid;
-    grid-template-columns: 260px minmax(0, 1fr);
-    gap: 24px;
-    align-items: start;
-}
-
-.class-list details {
-    border: 1px solid #ddd;
-    border-radius: 6px;
-    margin-bottom: 10px;
-    padding: 10px;
-}
-
-.class-list summary {
+.bunny-watch {
+    display: inline-block;
+    padding: 8px 16px;
+    border: 1px solid #8b5e3c;
+    border-radius: 5px;
+    background: #f8f3eb;
+    color: #603b27;
     cursor: pointer;
-    font-weight: 600;
+    font: inherit;
 }
 
-.class-list button {
-    cursor: pointer;
-    padding: 7px 12px;
+.bunny-watch:hover {
+    background: #eee2d2;
 }
 
-.class-player {
-    min-width: 0;
-}
-
-.bunny-video {
+.bunny-player-slot {
     position: relative;
     width: 100%;
-    padding-top: 56.25%;
+    aspect-ratio: 16 / 9;
+    margin: 12px 0 20px;
     background: #000;
-    overflow: hidden;
     border-radius: 8px;
+    overflow: hidden;
 }
 
-.bunny-video iframe {
+.bunny-player-slot[hidden] {
+    display: none;
+}
+
+.bunny-player-slot iframe {
     position: absolute;
     inset: 0;
     width: 100%;
     height: 100%;
     border: 0;
-}
-
-@media (max-width: 700px) {
-    .classroom {
-        grid-template-columns: 1fr;
-    }
 }
