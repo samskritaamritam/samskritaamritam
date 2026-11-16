@@ -340,6 +340,15 @@ permalink: /saturday-9pm/
 
 ---
 
+<a id="class-33"></a>
+## Class-33 (14-11-2026)
+
+- Topics: karmani prayogaH
+- **Video:** N.A
+- **PPT:** [PPT](https://drive.google.com/file/d/11dZYOKgI1RzJuO9FyUrG6lQLAIp-SzE8/view?usp=drive_link)
+
+---
+
 </details>
 
 </div>

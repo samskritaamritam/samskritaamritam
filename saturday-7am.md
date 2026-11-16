@@ -151,6 +151,16 @@ permalink: /saturday-7am/
 - **Topic-videos:** [kriyA-dvivacanam-bahuvacanam](https://drive.google.com/file/d/18XYl_43Dwx58GrCmFjPzow1iBarsjn3D/view?usp=drive_link), [karma](https://drive.google.com/file/d/19fXE2PgE7qvRCTO082zSusZ2srIYa7rp/view?usp=drive_link)
 
 ---
+
+<a id="class-14"></a>
+## Class-14 (14-10-2026)
+
+- Topics: kriyA-dvivacanam-bahuvacanam, karma, 
+- **Video:** N.A
+- **PPT:** [PPT](https://drive.google.com/file/d/1gHBwyfnxUhyK6_E5wk-fIw-SXjr9zaR0/view?usp=drive_link)
+- **Topic-videos:** [kriyA-dvivacanam-bahuvacanam](https://drive.google.com/file/d/18XYl_43Dwx58GrCmFjPzow1iBarsjn3D/view?usp=drive_link), [karma](https://drive.google.com/file/d/19fXE2PgE7qvRCTO082zSusZ2srIYa7rp/view?usp=drive_link)
+
+---
 </details>
 
 </div>

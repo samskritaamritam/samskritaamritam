@@ -325,10 +325,19 @@ permalink: /sunday-classes/
 ---
 
 <a id="class-30"></a>
-## कक्षा-२९ (०१-११-२०२६)
+## कक्षा-३० (०१-११-२०२६)
 
 - टिप्पण्यां विशेषचिन्तनम् - इदम् शब्दः 
 - **दृश्यश्रव्यमुद्रणम्:** [▶ पूर्वाह्ने १० वादने](https://drive.google.com/file/d/1twDIOi0cfG0FaTkwsb5jgXSoSEv-EUJ-/view?usp=drive_link) · [▶ सायं ९ वादने](https://drive.google.com/file/d/1wpRUXfTueFXqLET4pc-jaUGc-VuM77OI/view?usp=drive_link)
+
+
+---
+
+<a id="class-31"></a>
+## कक्षा-३१ (१५-११-२०२६)
+
+- शब्दानां पत्रे विशेषचिन्तनम् - इदम् शब्दः 
+- **दृश्यश्रव्यमुद्रणम्:** [▶ पूर्वाह्ने १० वादने]()(N.A) · [▶ सायं ९ वादने](https://drive.google.com/file/d/1HSErq6XQhgwqZpM640U5BKsMe6O3FIR9/view?usp=drive_link)
 
 
 ---
