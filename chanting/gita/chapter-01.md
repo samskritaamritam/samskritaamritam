@@ -290,7 +290,7 @@ permalink: /gita-chapter-01/
 
 <div class="gita-audio">
   <audio controls preload="none">
-    <source src="https://audio.samskritaamritam.co.in/gita/Ch-01/Ch-01-29-32.mp3"
+    <source src="https://audio.samskritaamritam.co.in/gita/Ch-01/Ch-01-28-32.mp3"
             type="audio/mpeg">
     Your browser does not support the audio element.
   </audio>
