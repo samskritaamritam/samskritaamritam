@@ -286,7 +286,6 @@ permalink: /gita-chapter-02/
 </div>
 </section>
 
-</section>
 <section class="gita-passage" id="verses-30-34">
 
 <h2>द्वितीयोऽध्यायः ३०-३४</h2>
@@ -326,7 +325,6 @@ permalink: /gita-chapter-02/
 </div>
 </section>
 
-</section>
 <section class="gita-passage" id="verses-35-39">
 
 <h2>द्वितीयोऽध्यायः ३५-३९</h2>
@@ -382,6 +380,10 @@ permalink: /gita-chapter-02/
 <a href="#verses-13-15">१३–१५</a>
 <a href="#verses-16-20">१६ –२०</a>
 <a href="#verses-21-24">२१-२४</a>
+<a href="#verses-25-29">२५-२९</a>
+<a href="#verses-30-34">३०-३४</a>
+<a href="#verses-35-39">३०-३९</a>
+</section>
 
 </div>
 
