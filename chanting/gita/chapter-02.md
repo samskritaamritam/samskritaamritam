@@ -211,7 +211,7 @@ permalink: /gita-chapter-02/
 
 </section>
 
-<section class="gita-passage" id="verses-16-20">
+<section class="gita-passage" id="verses-21-24">
 
 <h2>द्वितीयोऽध्यायः २१-२४</h2>
 
@@ -245,7 +245,125 @@ permalink: /gita-chapter-02/
   </audio>
 </div>
 
+</section>
+<section class="gita-passage" id="verses-25-29">
 
+<h2>द्वितीयोऽध्यायः २५-२९</h2>
+
+<div class="gita-verse">
+अव्यक्तोऽयमचिन्त्योऽयं(म्), अविकार्योऽयमुच्यते।  <br> 
+तस्मादेवं(व्ँ) विदित्वैनम्, नानुशोचितुमर्हसि।।  (२-२५)
+</div>
+
+<div class="gita-verse">
+अथ चैनं(न्) नित्यजातं(म्), नित्यं(व्ँ) वा मन्यसे मृतम्। <br>
+तथापि त्वं महाबाहो, नैवं शोचितुमर्हसि।।  (२-२६)
+</div>
+
+<div class="gita-verse">
+जातस्य हि ध्रुवो मृत्युः, ध्रुवं(ञ्) जन्म मृतस्य च। <br>  
+तस्मादपरिहार्येऽर्थे, न त्वं शोचितुमर्हसि।। (२-२७)
+</div>
+
+<div class="gita-verse">
+अव्यक्तादीनि भूतानि, व्यक्तमध्यानि भारत।  <br>  
+अव्यक्तनिधनान्येव, तत्र का परिदेवना ।।(२-२८)
+</div>
+
+<div class="gita-verse">
+ आश्चर्यवत्-पश्यति कश्चिदेनम् <br>
+  <span class="pada-offset"> आश्चर्यवद्-वदति तथैव चान्यः। </span> <br>
+	आश्चर्यवच्-चैनमन्यः(श्) श्रृणोति  <br>
+  <span class="pada-offset"> श्रुत्वाप्येनं(व्ँ) वेद न चैव कश्चित्।। (२-२९) </span>
+</div>
+
+<div class="gita-audio">
+  <audio controls preload="none">
+    <source src="https://audio.samskritaamritam.co.in/gita/Ch-02/Ch-02-25-29.mp3"
+                  type="audio/mpeg">
+          Your browser does not support the audio element.
+  </audio>
+</div>
+</section>
+
+</section>
+<section class="gita-passage" id="verses-30-34">
+
+<h2>द्वितीयोऽध्यायः ३०-३४</h2>
+
+<div class="gita-verse">
+देही नित्यमवध्योऽयं(म्), देहे सर्वस्य भारत।<br> 
+तस्मात्सर्वाणि भूतानि, न त्वं शोचितुमर्हसि।।  (२-३०)
+</div>
+
+<div class="gita-verse">
+स्वधर्ममपि चावेक्ष्य, न विकम्पितुमर्हसि।  <br>
+धर्म्याद्धि युद्धाछ्रेयोऽन्यत्, क्षत्रियस्य न विद्यते।। (२-३१)
+
+</div>
+
+<div class="gita-verse">
+यदृच्छया चोपपन्नं(म्), स्वर्गद्वारम्-अपावृतम्।   <br>  
+सुखिनः क्षत्रियाः(≍) पार्थ लभन्ते युद्धमीदृशम्।। (२-३२)
+</div>
+
+<div class="gita-verse">
+अथ चैत्त्वमिमं(न्) धर्म्यं(म्), संग्रामं(न्) न करिष्यसि।   <br>  
+ततः(स्) स्वधर्मं(ङ्) कीर्तिं(ञ्) च, हित्वा पापमवाप्स्यसि।। (२-३३)
+</div>
+
+<div class="gita-verse">
+अकीर्तिं(ञ्) चापि भूतानि, कथयिष्यन्ति तेऽव्ययाम्।  <br>
+संभावितस्य चाकीर्तिः मरणादतिरिच्यते।। (२-३४)
+</div>
+
+<div class="gita-audio">
+  <audio controls preload="none">
+    <source src="https://audio.samskritaamritam.co.in/gita/Ch-02/Ch-02-30-34.mp3"
+                  type="audio/mpeg">
+          Your browser does not support the audio element.
+  </audio>
+</div>
+</section>
+
+</section>
+<section class="gita-passage" id="verses-35-39">
+
+<h2>द्वितीयोऽध्यायः ३५-३९</h2>
+
+<div class="gita-verse">
+भयाद्रणादुपरतं(म्), मंस्यन्ते त्वां महारथाः। <br>  
+येषां(ञ्) च त्वं बहुमतो(:) भूत्वा यास्यसि लाघवम्।। (२-३५)
+
+</div>
+
+<div class="gita-verse">
+अवाच्यवादांश्च बहून्, वदिष्यन्ति तवाहिताः। <br>  
+निन्दन्तस्तव सामर्थ्यं(म्), ततो दुःखतरं(न्) नु किम्।। (२-३६)
+</div>
+
+<div class="gita-verse">
+हतो वा प्राप्स्यसि स्वर्गं(म्), जित्वा वा भोक्ष्यसे महीम्।    <br>  
+तस्मादुत्तिष्ठ कौन्तेय, युद्धाय कृतनिश्चयः।। (२-३७)
+</div>
+
+<div class="gita-verse">
+सुखदुःखे समे कृत्वा, लाभालाभौ जयाजयौ।  <br>  
+ततो युद्धाय युज्यस्व, नैवं पापमवाप्स्यसि।। (२-३८)
+</div>
+
+<div class="gita-verse">
+एषा तेऽभिहिता सांख्ये, बुद्धिर्योगे त्विमां शृणु।  <br>
+बुद्ध्यायुक्तो यया पार्थ, कर्मबन्धं प्रहास्यसि।।  (२-३९)
+</div>
+
+<div class="gita-audio">
+  <audio controls preload="none">
+    <source src="https://audio.samskritaamritam.co.in/gita/Ch-02/Ch-02-35-39.mp3"
+                  type="audio/mpeg">
+          Your browser does not support the audio element.
+  </audio>
+</div>
 </section>
 
 </div>
