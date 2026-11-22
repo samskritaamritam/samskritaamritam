@@ -18,7 +18,7 @@ permalink: /sunday-classes/
   <span class="book-title">गीतायाः भाषा-१</span>
 </summary>
 
-[▶ नवीनतमा कक्षा](#class-29)
+[▶ नवीनतमा कक्षा](#class-32)
 
 <a id="class-1"></a>
 ## कक्षा-१ (१३-०३-२०२६)
@@ -339,6 +339,15 @@ permalink: /sunday-classes/
 - शब्दानां पत्रे विशेषचिन्तनम् - इदम् शब्दः 
 - **दृश्यश्रव्यमुद्रणम्:** [▶ पूर्वाह्ने १० वादने]()(N.A) · [▶ सायं ९ वादने](https://drive.google.com/file/d/1HSErq6XQhgwqZpM640U5BKsMe6O3FIR9/view?usp=drive_link)
 
+---
+
+<a id="class-32"></a>
+## कक्षा-३२ (२२-११-२०२६)
+
+- गीतायाः भाषा-१, पाठ-१७, पुटसंङ्ख्या - ११०-११२
+- पाठविषयः - कर्म
+- अभ्यासः- इदम् शब्दः
+- **दृश्यश्रव्यमुद्रणम्:** [▶ पूर्वाह्ने १० वादने](https://drive.google.com/file/d/1PX_wMtqsz1F0ssyaGsg8eQBfLag_LM1H/view?usp=drive_link) · [▶ सायं ९ वादने](https://drive.google.com/file/d/1dELbYw9UpOGPyWLvhSBFJ35ipuvo5tWN/view?usp=drive_link)
 
 ---
 

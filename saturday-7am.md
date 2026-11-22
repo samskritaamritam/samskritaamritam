@@ -161,6 +161,18 @@ permalink: /saturday-7am/
 - **Topic-videos:** [kriyA-dvivacanam-bahuvacanam](https://drive.google.com/file/d/18XYl_43Dwx58GrCmFjPzow1iBarsjn3D/view?usp=drive_link), [karma](https://drive.google.com/file/d/19fXE2PgE7qvRCTO082zSusZ2srIYa7rp/view?usp=drive_link)
 
 ---
+
+<a id="class-15"></a>
+## Class-15 (22-10-2026)
+
+- Topics: karma, kutaH, bhutakAlaH
+- **Video:** [Video](https://drive.google.com/file/d/1uQI4tIhIsCDbL8TPoBADdH8Vx4-14o9D/view?usp=drive_link)
+- **PPT:** [PPT](https://drive.google.com/file/d/10ZqIe641OqX7qvSAPZrkS_CdGnMXGnWj/view?usp=drive_link) 
+
+- **Topic-videos:** [kutaH](https://drive.google.com/file/d/1CWDCHI31fPjNiIbJ-nYg55Mv68_VnOiz/view?usp=drive_link), [bhutakAlaH](https://drive.google.com/file/d/19HBtxgXnDWZj0MHF63id8IWrkcQf8K1p/view?usp=drive_link)
+
+
+---
 </details>
 
 </div>
