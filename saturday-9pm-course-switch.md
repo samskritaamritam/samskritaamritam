@@ -2,7 +2,7 @@
 layout: default
 title: शनिवासरस्य वर्गः
 subtitle: सायं नववादने
-permalink: /saturday-9pm-switch/
+permalink: /saturday-9pm/
 ---
 
 <details class="book-section course-picker" id="course-picker" style="margin-bottom: 1.2rem;">
@@ -31,14 +31,6 @@ permalink: /saturday-9pm-switch/
 
 <div class="course-view sambhashanam-view" id="view-sambhashanam">
 <div class="book-section" markdown="1">
-<div class="book-summary">
-  <img src="{{ '/assets/images/books/sambhAShanam.png' | relative_url }}"
-       alt="सम्भाषणवर्गः"
-       class="book-cover">
-  <span class="book-title">सम्भाषणवर्गः</span>
-</div>
-
-
 [▶ नवीनतमा कक्षा](#class-28)
 
 <a id="class-1"></a>
@@ -374,12 +366,6 @@ permalink: /saturday-9pm-switch/
 
 <div class="course-view gitayah-bhasha-view" id="view-gitayah-bhasha" hidden>
   <div class="book-section">
-    <div class="book-summary">
-      <img src="{{ '/assets/images/books/gitayah-bhasha.png' | relative_url }}"
-           alt="गीतायाः भाषा"
-           class="book-cover">
-      <span class="book-title">गीतायाः भाषा</span>
-    </div>
     <p>गीतायाः भाषा पाठाः अत्र स्थापिताः भविष्यन्ति।</p>
     <!-- Add GitayaH Bhasha lessons and videos here. -->
   </div>
