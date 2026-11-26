@@ -1,7 +1,7 @@
 ---
 layout: default
 title: नपुंसकलिङ्गशब्दाः
-permalink: /napumsakalinga-shabdAH/
+permalink: /napumsakalinga-shabda/
 ---
 
 <div class="shabdha-page">

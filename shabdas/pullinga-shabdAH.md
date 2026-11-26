@@ -1,7 +1,7 @@
 ---
 layout: default
 title: पुल्लिङ्गशब्दाः
-permalink: /pullinga-shabdAH/
+permalink: /pullinga-shabda/
 ---
 
 <div class="shabdha-page">

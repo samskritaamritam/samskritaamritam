@@ -1,7 +1,7 @@
 ---
 layout: default
 title: स्त्रीलिङ्गशब्दाः
-permalink: /strilinga-shabdAH/
+permalink: /strilinga-shabda/
 ---
 
 <div class="shabdha-page">
