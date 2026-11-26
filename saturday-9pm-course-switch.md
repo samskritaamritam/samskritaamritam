@@ -5,13 +5,25 @@ subtitle: सायं नववादने
 permalink: /saturday-9pm-switch/
 ---
 
-<div class="course-selector" style="margin: 0 0 1rem;">
-  <label for="course-select"><strong>पाठ्यविषयः</strong></label>
-  <select id="course-select" aria-label="Select course" style="margin-left: .5rem;">
-    <option value="sambhashanam" selected>सम्भाषणवर्गः</option>
-    <option value="gitayah-bhasha">गीतायाः भाषा</option>
-  </select>
-</div>
+<details class="book-section course-picker" id="course-picker" style="margin-bottom: 1.2rem;">
+  <summary class="book-summary" id="course-picker-summary">
+    <img src="{{ '/assets/images/books/sambhAShanam.png' | relative_url }}"
+         alt="सम्भाषणवर्गः" class="book-cover" id="selected-course-image">
+    <span class="book-title" id="selected-course-title">सम्भाषणवर्गः</span>
+  </summary>
+  <div class="course-picker-options" style="padding: .6rem 0;">
+    <button type="button" class="course-option" data-course="sambhashanam"
+      style="display:grid;grid-template-columns:70px 1fr;align-items:center;gap:1rem;width:100%;padding:.6rem 1rem;border:0;background:transparent;color:inherit;text-align:left;cursor:pointer;">
+      <img src="{{ '/assets/images/books/sambhAShanam.png' | relative_url }}" alt="" class="book-cover">
+      <span>सम्भाषणवर्गः</span>
+    </button>
+    <button type="button" class="course-option" data-course="gitayah-bhasha"
+      style="display:grid;grid-template-columns:70px 1fr;align-items:center;gap:1rem;width:100%;padding:.6rem 1rem;border:0;background:transparent;color:inherit;text-align:left;cursor:pointer;">
+      <img src="{{ '/assets/images/books/gitayah-bhasha.png' | relative_url }}" alt="" class="book-cover">
+      <span>गीतायाः भाषा</span>
+    </button>
+  </div>
+</details>
 
 <div class="class-layout" id="saturday-course-layout">
 
@@ -408,7 +420,10 @@ permalink: /saturday-9pm-switch/
 
 <script>
 (function () {
-  const selector = document.getElementById("course-select");
+  const picker = document.getElementById("course-picker");
+  const selectedImage = document.getElementById("selected-course-image");
+  const selectedTitle = document.getElementById("selected-course-title");
+  const options = document.querySelectorAll(".course-option");
   const sambhashanamMain = document.getElementById("view-sambhashanam");
   const gitayahMain = document.getElementById("view-gitayah-bhasha");
   const sambhashanamSidebar = document.getElementById("sidebar-sambhashanam");
@@ -420,12 +435,24 @@ permalink: /saturday-9pm-switch/
     gitayahMain.hidden = isSambhashanam;
     sambhashanamSidebar.hidden = !isSambhashanam;
     gitayahSidebar.hidden = isSambhashanam;
+
+    if (isSambhashanam) {
+      selectedImage.src = "{{ '/assets/images/books/sambhAShanam.png' | relative_url }}";
+      selectedImage.alt = "सम्भाषणवर्गः";
+      selectedTitle.textContent = "सम्भाषणवर्गः";
+    } else {
+      selectedImage.src = "{{ '/assets/images/books/gitayah-bhasha.png' | relative_url }}";
+      selectedImage.alt = "गीतायाः भाषा";
+      selectedTitle.textContent = "गीतायाः भाषा";
+    }
+    picker.open = false;
   }
 
-  selector.addEventListener("change", function () {
-    switchCourse(this.value);
-  });
 
-  switchCourse(selector.value);
+  options.forEach(function (button) {
+    button.addEventListener("click", function () {
+      switchCourse(this.dataset.course);
+    });
+  });
 })();
 </script>
