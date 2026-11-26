@@ -2,7 +2,7 @@
 layout: default
 title: शनिवासरस्य वर्गः
 subtitle: सायं नववादने
-permalink: /saturday-9pm-switch/
+permalink: /saturday-9pm/
 ---
 
 <div class="course-selector" style="margin: 0 0 1rem;">
@@ -18,14 +18,13 @@ permalink: /saturday-9pm-switch/
 <div class="class-main">
 
 <div class="course-view sambhashanam-view" id="view-sambhashanam">
-<details class="book-section" open markdown="1">
-
-<summary class="book-summary">
+<div class="book-section" markdown="1">
+<div class="book-summary">
   <img src="{{ '/assets/images/books/sambhAShanam.png' | relative_url }}"
        alt="सम्भाषणवर्गः"
        class="book-cover">
   <span class="book-title">सम्भाषणवर्गः</span>
-</summary>
+</div>
 
 
 [▶ नवीनतमा कक्षा](#class-28)
@@ -358,8 +357,8 @@ permalink: /saturday-9pm-switch/
 
 ---
 
-</details>
-</div><!-- end Sambhashana course view -->
+</div>
+</div>
 
 <div class="course-view gitayah-bhasha-view" id="view-gitayah-bhasha" hidden>
   <div class="book-section">
@@ -374,9 +373,7 @@ permalink: /saturday-9pm-switch/
   </div>
 </div>
 
-
 </div>
-
 
 <aside class="class-sidebar">
 
@@ -391,7 +388,7 @@ permalink: /saturday-9pm-switch/
 - [homework](https://drive.google.com/file/d/1ZAJhG4QjJVzKXObzujcAY0MgsIoieoE6/view?usp=drive_link)
 
 </details>
-</div><!-- end Sambhashana sidebar -->
+</div>
 
 <div class="sidebar-view gitayah-bhasha-sidebar" id="sidebar-gitayah-bhasha" hidden>
   <details open>
@@ -405,35 +402,29 @@ permalink: /saturday-9pm-switch/
   </details>
 </div>
 
-
 </aside>
-
 
 </div>
 
-
 <script>
 (function () {
-  const selector = document.getElementById('course-select');
-  const sambhashanamMain = document.getElementById('view-sambhashanam');
-  const gitayahMain = document.getElementById('view-gitayah-bhasha');
-  const sambhashanamSidebar = document.getElementById('sidebar-sambhashanam');
-  const gitayahSidebar = document.getElementById('sidebar-gitayah-bhasha');
-
+  const selector = document.getElementById("course-select");
+  const sambhashanamMain = document.getElementById("view-sambhashanam");
+  const gitayahMain = document.getElementById("view-gitayah-bhasha");
+  const sambhashanamSidebar = document.getElementById("sidebar-sambhashanam");
+  const gitayahSidebar = document.getElementById("sidebar-gitayah-bhasha");
 
   function switchCourse(course) {
-    const isSambhashanam = course === 'sambhashanam';
+    const isSambhashanam = course === "sambhashanam";
     sambhashanamMain.hidden = !isSambhashanam;
     gitayahMain.hidden = isSambhashanam;
     sambhashanamSidebar.hidden = !isSambhashanam;
     gitayahSidebar.hidden = isSambhashanam;
   }
 
-
-  selector.addEventListener('change', function () {
+  selector.addEventListener("change", function () {
     switchCourse(this.value);
   });
-
 
   switchCourse(selector.value);
 })();
