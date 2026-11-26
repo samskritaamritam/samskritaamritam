@@ -143,7 +143,7 @@ permalink: /saturday-7am/
 ---
 
 <a id="class-13"></a>
-## Class-13 (07-10-2026)
+## Class-13 (07-11-2026)
 
 - Topics: kriyA-dvivacanam-bahuvacanam, karma, 
 - **Video:** [Video](https://drive.google.com/file/d/1XJCTiCW-z92Z3h1zvyoEflfb_-cnz95E/view?usp=drive_link)
@@ -153,7 +153,7 @@ permalink: /saturday-7am/
 ---
 
 <a id="class-14"></a>
-## Class-14 (14-10-2026)
+## Class-14 (14-11-2026)
 
 - Topics: kriyA-dvivacanam-bahuvacanam, karma, 
 - **Video:** N.A
@@ -163,7 +163,7 @@ permalink: /saturday-7am/
 ---
 
 <a id="class-15"></a>
-## Class-15 (22-10-2026)
+## Class-15 (22-11-2026)
 
 - Topics: karma, kutaH, bhutakAlaH
 - **Video:** [Video](https://drive.google.com/file/d/1uQI4tIhIsCDbL8TPoBADdH8Vx4-14o9D/view?usp=drive_link)
